@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Test
-nav_order: 3
-has_children: true
-permalink: /docs/test
+title: Buttons
+parent: POP
+nav_order: 2
 ---
 
 # UI Components
