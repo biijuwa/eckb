@@ -17,3 +17,5 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 ---
 
 ## Getting started
+![](images/voxlogo.png)
+![](voxlogo.png)
