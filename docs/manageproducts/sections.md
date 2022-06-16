@@ -7,4 +7,4 @@ nav_order: 1
 
 # Sections
 
-[Link to another page](/docs/credits/credits.md)
+[Link to another page](//docs/credits/credits.md)
