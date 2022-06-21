@@ -8,4 +8,3 @@ has_children: true
 
 # Sections
 
-[Link to another page](../sections/createsection.md)Q
