@@ -26,7 +26,7 @@ nav_exclude: true
     * **Section name:** Enter a name for the new section.<br>
     * **Select member roles:** Select the desired member roles from the drop down. 
    
-    >*Note:* You can select mulitple roles from the drop down. 
+   >*Note:* You can select mulitple roles from the drop down. 
 
 5. Click on the Save button. 
 
