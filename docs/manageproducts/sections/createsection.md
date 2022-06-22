@@ -20,19 +20,7 @@ nav_exclude: true
     * **Section name:** Enter a name for the new section.<br>
     * **Select member roles:** Select the desired member roles from the drop down. 
 
-  >Tips: You can select mulitple roles from the drop down.  
+  `Tips: You can select mulitple roles from the drop down.`  
  
 5. Click on the Save button. 
-
-
-[ A button ](#url)
-{: .d-none .d-md-inline-block }
-
-These headings will be `inline-block`:
-
-### heading 3
-{: .d-inline-block }
-
-### heading 3
-{: .d-inline-block }
 
