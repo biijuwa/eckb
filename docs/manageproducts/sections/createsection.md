@@ -22,5 +22,5 @@ nav_exclude: true
 
 5. Click on the Save button. 
 
-|<ml><ttext>You can select mulitple roles from the drop down.</ttext></ml>|
+|<ttext>You can select mulitple roles from the drop down.</ttext>|
 
