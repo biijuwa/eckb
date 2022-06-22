@@ -20,8 +20,9 @@ nav_exclude: true
     * **Section name:** Enter a name for the new section.<br>
     * **Select member roles:** Select the desired member roles from the drop down. 
 
-  `Tips: You can select mulitple roles from the drop down.                                                  `  
+   <div class="ttext">
+   ` Tips: You can select mulitple roles from the drop down.`</div>
  
 5. Click on the Save button. 
 
-|This paragraph will have a margin bottom of 1rem/16px at large screens.|
+<ttext>|This paragraph will have a margin bottom of 1rem/16px at large screens.|</ttext>
