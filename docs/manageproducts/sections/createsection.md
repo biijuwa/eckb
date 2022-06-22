@@ -20,15 +20,17 @@ nav_exclude: true
     ![](../../../images/manageproducts/section2.png)
    
 4. **Create New Section** dialog box opens up, enter the required information in each field.
+
+    ![](../../../images/manageproducts/section3.png)
    
     * **Section name:** Enter a name for the new section.<br>
     * **Select member roles:** Select the desired member roles from the drop down. 
    
 >*Note:* You can select mulitple roles from the drop down. 
 
-    ![](../../../images/manageproducts/section3.png)
+    
 
-5. Click on the Save button. 
+1. Click on the Save button. 
 
 
 
