@@ -25,7 +25,3 @@ nav_exclude: true
 5. Click on the Save button. 
 
 |This paragraph will have a margin bottom of 1rem/16px at large screens.|
-{: .mb-lg-4 }
-
-This paragraph will have 2rem/32px of padding on the right and left at all screen sizes.
-{: .mx-auto }
