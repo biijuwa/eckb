@@ -11,11 +11,13 @@ nav_exclude: true
 
 1. From the **Dashboard**, select **Manage Products.**
    
-   ![](../../../images/products/mng1.png)
+   ![](../../../images/manageproducts/mng1.png)
 
 2. Click **Sections.**
 
 3. On the **Sections** page, click **Create New Section.**
+
+    ![](../../../images/manageproducts/section2.png)
    
 4. **Create New Section** dialog box opens up, enter the required information in each field.
    
@@ -23,6 +25,8 @@ nav_exclude: true
     * **Select member roles:** Select the desired member roles from the drop down. 
    
 >*Note:* You can select mulitple roles from the drop down. 
+
+    ![](../../../images/manageproducts/section3.png)
 
 5. Click on the Save button. 
 
