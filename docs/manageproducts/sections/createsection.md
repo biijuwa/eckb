@@ -7,21 +7,20 @@ nav_order: 1
 nav_exclude: true
 ---
 
-### Follow these steps to create a section
+### Steps to create a section
 
-1. From the **dashboard**, go to **Manage Products > Sections.**
+1. From the **Dashboard**, select **Manage Products.**
 
+2. Click **Sections.**
+
+3. On the **Sections** page, click **Create New Section.**
+   
+4. **Create New Section** dialog box opens up, enter the required information in each field.
+   
+    * **Section name:** Enter a name for the new section.<br>
+    * **Select member roles:** Select the desired member roles from the drop down. 
+
+  >Tips: You can select mulitple roles from the drop down.  
  
-
-2. Click on the Create New Section button located on the top right corner of the window.
-
- 
-> Note: The already created sections along with their status and other information will be displayed. 
-3.	A Create New Section dialog box opens up, enter the required information in each field.
-
-
-    ● Section name: Click and enter the section name.<br>
-    ● Select member roles: Click and select roles from the drop-up list. 
- 
-4. Click on the Save button. 
+5. Click on the Save button. 
 
