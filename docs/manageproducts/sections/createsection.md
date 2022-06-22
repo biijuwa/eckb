@@ -28,9 +28,7 @@ nav_exclude: true
    
 >*Note:* You can select mulitple roles from the drop down. 
 
-    
-
-1. Click on the Save button. 
+5. Click on the Save button. 
 
 
 
