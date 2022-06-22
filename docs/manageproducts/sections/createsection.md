@@ -25,4 +25,4 @@ nav_exclude: true
  
 5. Click on the Save button. 
 
-<ttext>|This paragraph will have a margin bottom of 1rem/16px at large screens.|</ttext>
+|<ttext>This paragraph will have a margin bottom of 1rem/16px at large screens.</ttext>|
