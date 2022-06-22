@@ -10,6 +10,7 @@ nav_exclude: true
 ### Steps to create a section
 
 1. From the **Dashboard**, select **Manage Products.**
+   
    ![](../../../images/products/mng1.png)
 
 2. Click **Sections.**
