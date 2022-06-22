@@ -7,5 +7,5 @@ parent: Manage Products
 
 ---
 
-Use the **Section** to create a section and sub-section.
+
 
