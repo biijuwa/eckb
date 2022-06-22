@@ -24,3 +24,15 @@ nav_exclude: true
  
 5. Click on the Save button. 
 
+
+[ A button ](#url)
+{: .d-none .d-md-inline-block }
+
+These headings will be `inline-block`:
+
+### heading 3
+{: .d-inline-block }
+
+### heading 3
+{: .d-inline-block }
+
