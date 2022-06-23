@@ -10,28 +10,24 @@ nav_exclude: true
 ### Steps to create a section
 
 1. From the **Dashboard**, select **Manage Products.**
-   
-   ![](../../../images/manageproducts/mng1.png)
+
+   ![sections](../../../images/manageproducts/mng1.png)
 
 2. Click **Sections.**
 
 3. On the **Sections** page, click **Create New Section.**
 
-    ![](../../../images/manageproducts/section2.png)
-   
+   ![createnewsection](../../../images/manageproducts/section2.png)
+
 4. **Create New Section** dialog box opens up, enter the required information in each field.
 
-    ![](../../../images/manageproducts/section3.png)
-   
-    * **Section name:** Enter a name for the new section.<br>
-    * **Select member roles:** Select the desired member roles from the drop down
+   ![newsectiondialog](../../../images/manageproducts/section3.png)
 
->*Note:* You can select mulitple roles from the drop down. 
+   - **Section name:** Enter a name for the new section.<br>
+   - **Select member roles:** Select the desired member roles from the drop down
 
-5. Click on the Save button. 
+   > _Note:_ You can select mulitple roles from the drop down.
 
-FRANK
+5. Click on the Save button.
 
-
-
-
+   FRANK
