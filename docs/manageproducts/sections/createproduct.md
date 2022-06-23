@@ -66,11 +66,11 @@ nav_exclude: true
     - **Weight:** Enter the weight of the product.
 
     > _Tips:_ <br>
-    > If you want to add more products, click on the **Add Items**. System will generate additional 3 input fields for you. You can change the value from 3 to desired one.
+    >   If you want to add more products, click on the **Add Items**. System will generate additional 3 input fields for you. You can change the value from 3 to desired one.
 
 12. **[Optional]** Toggle the **Add To Catalog Queue** to **ON** and add a note in the text field.
 
     > _Important:_ <br>
-    > Use this option only if you don't have enough details (materials) for creating a product. It works as a savepoint. You can continue the process from **Catalogs Queues.**
+    >   Use this option only if you don't have enough details (materials) for creating a product. It works as a savepoint. You can continue the process from **Catalogs Queues.**
 
 13. Click on **Save Catalog** button to complete.
