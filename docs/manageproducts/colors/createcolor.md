@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create Color
+title: Create a Color
 parent: Colors
 grand_parent: Manage Products
 nav_order: 1
@@ -24,3 +24,5 @@ nav_exclude: true
    ![create_a_new_color](../../../images/manageproducts/createcolor3.png "Create new color dialog box")
 
 5. Click on the **Save New Color**.
+
+---
