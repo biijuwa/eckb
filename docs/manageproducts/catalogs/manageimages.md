@@ -1,0 +1,46 @@
+---
+layout: default
+title: Manage Images
+parent: Catalogs
+grand_parent: Manage Products
+nav_order: 1
+nav_exclude: true
+---
+
+### Steps to create a product
+
+1. From the **Dashboard**, select **Manage Products.**
+
+   ![manage_image](../../../images/manageproducts/mng1.png "Catalogs menu")
+
+2. Click **Catalogs.**
+3. **Catalogs** page opens up, you can scroll down the list to search for the appropriate product. When found click on the ![](../../../images/buttons/pic.png) icon located on the far right.
+
+   ![catalogs_page_image](../../../images/manageproducts/mng2.png "Images list")
+
+   > _Tips:_ You can use the **Searchbar** which is quick and easy rather than frantically scrolling down.
+
+4. **Catalog Images** page opens up, you can perform following actions.
+
+   - **Upload a New Image**
+   - **Set an Image as Primary**
+   - **Delete an Image**
+
+   #### **Upload a New Image**
+
+   - Click on the ![choose_files](../../../images/buttons/chfiles.png "Choose Files") button.
+   - Select an image from your device.
+   - Click on the **Upload Images** button.
+
+   #### **Set an Image as Primary**
+
+   - Scroll down the list to select an appropriate image.
+   - Click on the ![priamry_image](../../../images/buttons/green.png "Primary Image")
+   - Click on the **Yes** button to confirm.
+
+   #### **Delete an Image**
+
+   - Scroll down the list to search for an appropriate image.
+   - Click on the ![delete_image](../../../images/buttons/delete.png "Delete Image")
+   - Click on the **Yes** button to confirm.
+
