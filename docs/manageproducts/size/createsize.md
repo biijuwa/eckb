@@ -24,3 +24,5 @@ nav_exclude: true
    ![create_new_size_dialog_box](../../../images/manageproducts/size3.png "Create Sizes Dialog Box")
 
 4. Click on the **Save New Size** button.
+
+---
