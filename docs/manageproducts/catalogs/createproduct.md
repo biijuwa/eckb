@@ -75,3 +75,5 @@ nav_exclude: true
     > Use this option only if you don't have enough details (materials) for creating a product. It works as a savepoint. You can continue the process from **Catalogs Queues.**
 
 13. Click on **Save Catalog** button to complete.
+
+---
