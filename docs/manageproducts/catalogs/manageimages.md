@@ -14,13 +14,15 @@ nav_exclude: true
    ![manage_image](../../../images/manageproducts/mng1.png "Catalogs menu")
 
 2. Click **Catalogs.**
-3. **Catalogs** page opens up, you can scroll down the list to search for the appropriate product. When found click on the ![](../../../images/buttons/pic.png) icon located on the far right.
+3. **Catalogs** page opens up, you can either scroll down the list or use **Searchbar** to search for the appropriate product. When found click on the ![](../../../images/buttons/pic.png) icon located on the far right.
 
    ![catalogs_page_image](../../../images/manageproducts/mng2.png "Images list")
 
-   > _Tips:_ You can use the **Searchbar** which is quick and easy rather than frantically scrolling down.
+   > _Tips:_ If the displayed list contains many products I suggest you to use **Searchbar** which is quick and easy rather than frantically scrolling down.
 
 4. **Catalog Images** page opens up, you can perform following actions.
+
+   ![catalog_image](../../../images/manageproducts/mng3.png "Catalog Images list")
 
    - **Upload a New Image**
    - **Set an Image as Primary**
@@ -44,3 +46,4 @@ nav_exclude: true
    - Click on the ![delete_image](../../../images/buttons/delete.png "Delete Image")
    - Click on the **Yes** button to confirm.
 
+---
