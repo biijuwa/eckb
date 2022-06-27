@@ -11,7 +11,7 @@ nav_exclude: true
 
 1. From the **Dashboard**, select **Manage Products.**
 
-   ![sections_image](../../../images/manageproducts/cqueue1.png "Manage Prdouct")
+   ![sections_image](../../../images/manageproducts/menumngcq.png "Manage Prdouct")
 
    > **Note:** The number you see next to **Catalog Queues** represents the number of saved catalogs.
 

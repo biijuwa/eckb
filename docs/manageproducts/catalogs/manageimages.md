@@ -11,7 +11,7 @@ nav_exclude: true
 
 1. From the **Dashboard**, select **Manage Products.**
 
-   ![manage_image](../../../images/manageproducts/mng1.png "Catalogs menu")
+   ![manage_image](../../../images/manageproducts/menumngcat.png "Catalogs menu")
 
 2. Click **Catalogs.**
 3. **Catalogs** page opens up, you can either scroll down the list or use **Searchbar** to search for the appropriate product. When found click on the ![](../../../images/buttons/pic.png) icon located on the far right.

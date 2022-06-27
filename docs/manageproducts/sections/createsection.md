@@ -11,7 +11,7 @@ nav_exclude: true
 
 1. From the **Dashboard**, select **Manage Products.**
 
-   ![sections_image](../../../images/manageproducts/mng1.png)
+   ![sections_image](../../../images/manageproducts/menumngsec.png)
 
 2. Click **Sections.**
 

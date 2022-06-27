@@ -11,7 +11,7 @@ nav_exclude: true
 
 1. From the **Dashboard**, select **Manage Products.**
 
-   ![catalogs_image](../../../images/manageproducts/mng1.png "manage product menu")
+   ![catalogs_image](../../../images/manageproducts/menumngcat.png "manage product menu")
 
 2. Click **Catalogs.**
 

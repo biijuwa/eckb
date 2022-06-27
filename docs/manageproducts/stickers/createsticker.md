@@ -11,7 +11,7 @@ nav_exclude: true
 
 1. From the **Dashboard**, select **Sticker.**
 
-   ![manage_porduct](../../../images/manageproducts/mng1.png "Manage product menu")
+   ![manage_porduct](../../../images/manageproducts/menumgstc.png "Manage product menu")
 
 2. Select **Stickers.**
 3. Click on the ![sticker](../../../images/buttons/create.png) located on the top right corner.

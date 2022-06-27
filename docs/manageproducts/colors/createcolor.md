@@ -11,7 +11,7 @@ nav_exclude: true
 
 1. From the **Dashboard**, select **Manage Products.**
 
-   ![sections_image](../../../images/manageproducts/mng1.png "Manage Prdouct")
+   ![sections_image](../../../images/manageproducts/menumngcol.png "Manage Prdouct")
 
 2. Select **Colors.**
 
