@@ -20,14 +20,14 @@ Follow the steps to create a department.
 
 1. From the **Dashboard**, select **Departments.**
 
-   ![department_menu](../../../images/images/departments/dprt1.png)
+   ![department_menu](/images/departments/dprt1.png)
 
 2. Click on **Create Department** located on the top right corner.
 
-   ![department_pages](../../../images/departments/dprt2.png "Department Pages")
+   ![department_pages](/images/departments/dprt2.png "Department Pages")
 
 3. **Create New Department** dialog box opens up, enter the required details in each field.
 
-   ![department_pages](../../../images/departments/dprt3.png "Department Create Dialog box")
+   ![department_pages](/images/departments/dprt3.png "Department Create Dialog box")
 
 4. Click on the **Save NEw Department.**
