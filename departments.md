@@ -22,7 +22,7 @@ Follow the steps to create a department.
 
    ![department_menu](/images/departments/dprt1.png)
 
-2. Click on **Create Department** located on the top right corner.
+2. Click on **Create Department** button located on the top right corner.
 
    ![department_pages](/images/departments/dprt2.png)
 
@@ -30,7 +30,7 @@ Follow the steps to create a department.
 
    ![department_pages](/images/departments/dprt3.png)
 
-4. Click on the **Save NEw Department.**
+4. Click on the **Save New Department.**
 
 ---
 
