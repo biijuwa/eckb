@@ -47,3 +47,5 @@ Follow the steps to edit the name of the department.
 3. A text field appears. Delete and enter new name for the department.
 
    ![department_pages](/images/departments/editdprt2.png)
+
+---
