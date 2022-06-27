@@ -20,11 +20,11 @@ nav_exclude: true
 3. Click on **Create Credit.**
 4. **Create New Credit** dialog opens up, enter the required details in each field.
 
-    ![Create_new_credit](../../../images/credits/credit3.png "Create New Credit Dialog")
+   ![Create_new_credit](../../../images/credits/credit3.png "Create New Credit Dialog")
 
-5. [OPTIONAL] Toggle **ON** the **Enable Retail Flag** option. 
-   
-    > **Q.** What is the Retail Enable Flag for?
-    > Retail Enable Flag is used when you ca
+5. **[OPTIONAL]** Toggle **ON** the **Enable Retail Flag** option.
+
+   > **Q.** What is the Retail Enable Flag for?
+   > Retail Enable Flag is used when you ca
 
 6. Click on the **Save Credit.**
