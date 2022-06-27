@@ -16,7 +16,7 @@ This article is designed to help you create a new department and change the name
 
 ## Create a Department
 
-Follow the steps to create a department.
+Follow the steps to create a department. <br>
 
 1. From the **Dashboard**, select **Departments.**
 
@@ -36,7 +36,7 @@ Follow the steps to create a department.
 
 ## Edit the name of a Department
 
-Follow the steps to edit the name of the department.
+Follow the steps to edit the name of the department.<br>
 
 1. From the **Dashboard**, select **Departments.**
 
