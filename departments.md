@@ -34,7 +34,7 @@ Follow the steps to create a department.
 
 ---
 
-## Edit the name of the Department
+## Edit the name of a Department
 
 Follow the steps to edit the name of the department.
 
@@ -42,8 +42,8 @@ Follow the steps to edit the name of the department.
 
    ![department_menu](/images/departments/dprt1.png)
 
-2. Use the **searchbar** or **scroll** down the list to search for the desired department.
+2. Use the **searchbar** or **scroll** down the list to search for the desired department. When found, click on the **Department's** name.
 
-3. Click on the department's name. A text field appears, delete and enter new name for the department.
+3. A text field appears. Delete and enter new name for the department.
 
    ![department_pages](/images/departments/editdprt2.png)
