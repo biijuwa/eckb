@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Edit a details
+title: Edit a credit's details
 parent: Credits
 grand_parent: Credits
 nav_order: 2
@@ -32,3 +32,5 @@ nav_exclude: true
 8. **[OPTIONAL]** Toggle the **Retail Flag** to **ON** or **OFF** to **Enable** or **Disable Retail Flag** option.
 9. **[OPTIONAL]** Toggle the **Enable Credit As Primary** to **ON** or **OFF** to **SET** or **UNSET** the credit as primary.
 10. Click on the **Save**.
+
+---

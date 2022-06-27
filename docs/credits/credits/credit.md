@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Credits
+title: Create a credit
 parent: Credits
 grand_parent: Credits
 nav_order: 1
