@@ -31,3 +31,19 @@ Follow the steps to create a department.
    ![department_pages](/images/departments/dprt3.png "Department Create Dialog box")
 
 4. Click on the **Save NEw Department.**
+
+---
+
+## Edit the name of the Department
+
+Follow the steps to edit the name of the department.
+
+1. From the **Dashboard**, select **Departments.**
+
+   ![department_menu](/images/departments/dprt1.png)
+
+2. Use the **searchbar** or **scroll** down the list to search for the desired department.
+
+3. Click on the department's name. A text field appears, delete and enter new name for the department.
+
+   ![department_pages](/images/departments/editdprt2.png "Department Pages")
