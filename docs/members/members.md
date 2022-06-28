@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Members
-parent: Members
-nav_order: 1
+nav_order: 4
+description: 
+has_children: true
+permalink: 
 
 ---
