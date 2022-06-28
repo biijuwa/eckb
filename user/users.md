@@ -24,6 +24,6 @@ permalink:
 
    ![create_user](../images/users/create_user.png)
 
-   > **NOTE:** <br> By default the status for the new user being created is set to **Active**. If you want to set is as **Inactive**, click on the **Toggle Button**.
+   > **NOTE:** <br> By default the status for a new user being created is set to **Active**. If you want to set is as **Inactive**, click on the **Toggle Button**.
 
 4. Click on the **Create New User**.
