@@ -39,14 +39,17 @@ permalink:
 
    ![inventory_dashboard](../../images/inventory/inventory1.png)
 
-2. **Inventory Owner** page opens up, either use the **Searchbar** or **Scroll** down to search for the appropriate owner. 
+2. **Inventory Owner** page opens up. You can directly change the status of the any desired inventory owner to either **Active** or **Inactive**.
 
    ![create_inventory_owner](../../images/inventory/inventory2.png)
 
-3. When found, click on the ![edit_inventory_owner](../../images/buttons/ccheck.png)
-4. **Edit Inventory Owner** dialog opens up, edit the information in required fields. 
+3. To change the **Status**, click on the **Toggle button** of the desired inventory owner from the status column. Or, else skip to next step.
 
-    ![edit_inventory_owner](../../images/inventory/editinven.png)
+4. Either use the **Searchbar** or **Scroll** down the list to search for the desired inventory owner. When found, click on the ![edit_inventory_owner](../../images/buttons/ccheck.png) located on the far right.
+5. **Edit Inventory Owner** dialog opens up, edit the information in required fields.
 
-5. 
+   ![edit_inventory_owner](../../images/inventory/editinven.png)
+
 6. When you are done with changes, click on the **Save Changes** button.
+
+---
