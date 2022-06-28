@@ -20,10 +20,12 @@ permalink:
 
    ![usergroup_page](../images/usergroups/usergroup_page.png)
 
-    > **NOTE:** <br> You can directly set the status of a particular usergroup by either toggling the button to **Active** or **Inactive.**
+   > **NOTE:** <br> You can directly set the status of a particular usergroup by either toggling the button to **Active** or **Inactive.**
 
 3. **User Group Create** page opens up, enter the required information in each field.
 
    ![usergroup_create](../images/usergroups/usergroup_create.png)
 
 4. Click on the **Create User Group**.
+
+---
