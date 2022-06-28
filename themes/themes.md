@@ -22,7 +22,7 @@ permalink:
 
    ![theme_page](../images/images/../themes/theme_page.png)
 
-3. To apply the selected theme, click on the ![install_theme_button](../images/buttons/installtheme.png)
+3. To apply the selected theme, cli ck on the ![install_theme_button](../images/buttons/installtheme.png)
 4. **Confirmation** dialog opens up, click on **Yes** to apply the theme.
 
 ---
