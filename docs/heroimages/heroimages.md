@@ -39,6 +39,9 @@ Follow the steps to create a hero image.
 
 ## Edit a Hero Image
 
+> **Important:**
+> A hero image cannot be replaced, so the only option is to delete it, but no need to fear you can edit other information.
+
 Follow the steps to edit a hero image.
 
 1. From the **Dashboard**, select **Hero Images.**
