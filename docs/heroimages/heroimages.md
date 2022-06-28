@@ -12,7 +12,7 @@ permalink:
 
 ---
 
-## Create a Hero Image
+### Create a Hero Image
 
 Follow the steps to create a hero image.
 
@@ -37,9 +37,9 @@ Follow the steps to create a hero image.
 
 ---
 
-## Edit a Hero Image
+### Edit a Hero Image
 
-> **Important:**
+> **Important:**<br>
 > A hero image cannot be replaced, so the only option is to delete it, but no need to fear you can edit other information.
 
 Follow the steps to edit a hero image.
@@ -62,7 +62,7 @@ Follow the steps to edit a hero image.
 
 ---
 
-## Delete a Hero Image
+### Delete a Hero Image
 
 Follow the steps to Delete a hero image.
 
