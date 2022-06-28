@@ -6,9 +6,10 @@ description:
 permalink:
 ---
 
-### Departments
+## Departments
 
-<br>
+---
+
 Every business be it small or large consists of departments. Department simply is a unit that deals with a specific area of function. All the departments work together to achieve the ultimate goal of the prosperity of a business.
 {: .fw-400 .text-left}
 
