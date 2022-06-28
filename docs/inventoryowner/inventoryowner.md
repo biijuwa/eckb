@@ -30,3 +30,5 @@ permalink:
    - **Store API Token:** API token of your store.
 
 4. Click on **Create Inventory Owner.**
+
+---
