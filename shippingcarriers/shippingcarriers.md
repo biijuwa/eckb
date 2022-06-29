@@ -49,6 +49,10 @@ permalink:
 
    - If you have selected the store account, new token fields appear. Enter your store token.
 
+   c. Click to toggle **ON** the **Mark as primary carrier?**
+
+   d. After you are done, click on the **Save.**
+
 5. If you want to opt for **Flat Rate**, follow these steps.
 
    > **Understanding Flat Rate**
