@@ -25,3 +25,5 @@ permalink:
    ![update_smtp](../images/smtpsettings/smtp_update.png)
 
 4. When you are done, click on **Save.**
+
+---
