@@ -48,7 +48,7 @@ nav_order: 1
    An email with a passowrd reset **URL** will be sent to the member.
 
    > **Q. Why is the URL in the email not working?** <br>
-   > -> The URL sent in the email has expired. Generally, the password reset URL has an expiry period.
+   > -> The URL sent in the email has expired. The password reset URL has an expiry period.
    > If you try to access it after the expiry period, it no longer works.
 
    {: .text-left}
