@@ -33,9 +33,7 @@ Text
 
 ---
 
-### Change the status of a group member
-
-{: .fw-700 }
+### Change the status of a group member {: .fw-700 }
 
 text
 
