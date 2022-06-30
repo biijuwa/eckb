@@ -26,8 +26,26 @@ nav_order: 1
 
 5. On the **Member Details** section, click on the <b> _toggle button_ </b> to set the required settings to **active.**
 
-    ![member_details](../../images/members/member_details.png)
+   ![member_details](../../images/members/member_details.png)
 
-6. To *assign* member group, click on the <b> *Member Group* </b> field and select from the drop down menu.
+6. To <b> _add_ </b> a text number, click on the <b> _text number_ </b> field, and enter a valid phone number.
+7. To <b> _assign_</b> member group, click on the <b> _Member Group_ </b> field, and select from the drop down menu.
 
-7. Click on **Update Member Details** to complete. 
+8. When you are done, click on **Update Member Details.**
+
+---
+
+### Reset password
+
+## Text
+
+1. On the **Member Details** page, scroll down to the <b> _Reset Password_ </b> section.
+
+   ![reset_password](../../images/members/members_reset.png)
+
+2. Click on the **Send Token in Email** button.
+
+   An email with a passowrd reset **URL** will be sent to the member.
+
+   > **Q. Why is the URL in the email not working?** <br>
+   > => The URL sent in the email has expired. Usually, the password reset URL has an expiry period. If you access it after the expiry period, it may no longer work.
