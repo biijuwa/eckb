@@ -38,9 +38,9 @@ text
 ---
 
 1. From the **Dashboard**, select **Group Members.**
-2. On the **Member Group** page, click on the **Show All list.**
-<br><h4> By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
-</h4>
+2. On the **Member Group** page, click on the **Show All list.** <br>
+
+   ##### By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
 
 3. Search for the desired group member. When found click on the <b> _Status_ </b> toggle button next to it.
 
@@ -54,7 +54,7 @@ text
 
 ---
 
-> **Important:** ><br> Only one **Member Group** can be set as a default at once.
+> **Important:** <br> Only one **Member Group** can be set as a default at once.
 
 1. From the **Dashboard**, select **Group Members.**
 2. **Member Groups** page opens up, search for the desired group member. When found click on the <b> _Default_ </b> toggle button next to it.
