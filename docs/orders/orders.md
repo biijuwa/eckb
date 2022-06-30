@@ -14,16 +14,16 @@ permalink:
 
 1. From the **Dashboard**, select **Orders.**
 
-   ![order_dashboard](../images/orders/order_dashboard.png)
+   ![order_dashboard](../../images/orders/order_dashboard.png)
 
 2. **Orders** page opens up. Either use **Searchbar** or **Scroll** through the list to search for the appropriate order.
 
-   ![order_page](../images/orders/order_page.png)
+   ![order_page](../../images/orders/order_page.png)
 
 3.When you find your desired order, click on its **order number** from the order column.
 
 4. **Orders Details #** page opens up, scroll down to the bottom.<br> `Here order number 1010262 is used as an example.`
 
-   ![orders_details](../images/orders/order_detail.png)
+   ![orders_details](../../images/orders/order_detail.png)
 
 5. To cancel

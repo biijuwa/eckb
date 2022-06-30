@@ -14,7 +14,7 @@ permalink:
 
 ### Understanding the column of the settings
 
-![setting_section](../images/settings/setting_page.png)
+![setting_section](../../images/settings/setting_page.png)
 
 - **Name:** The column contains the name given to a particular email setting.
 - **Mail Name:** The column contains the value assigned to a particular email setting.
@@ -25,6 +25,6 @@ permalink:
 
 1. From the **Dashboard**, select **Settings.**
 
-   ![setting_dashboard](../images/settings/setting_dashboard.png)
+   ![setting_dashboard](../../images/settings/setting_dashboard.png)
 
 2. **Settings** page opens up.

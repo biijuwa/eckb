@@ -14,15 +14,15 @@ permalink:
 
 1. From the **Dashboard**, select **Titles.**
 
-   ![title_dashboard](../images/titles/title_dashboard.png)
+   ![title_dashboard](../../images/titles/title_dashboard.png)
 
 2. **Titles** page opens up, click on the **Create New Title** button located on the top right corner.
 
-   ![title_page](../images/titles/titles_page.png)
+   ![title_page](../../images/titles/titles_page.png)
 
 3. **Create New Title** dialog opens up, enter the required information in each field.
 
-   ![title_create](../images/titles/title_create.png)
+   ![title_create](../../images/titles/title_create.png)
 
 4. After you are done, click on **Save New Title** button.
 
@@ -32,14 +32,14 @@ permalink:
 
 1. From the **Dashboard**, select **Titles.**
 
-   ![title_dashboard](../images/titles/title_dashboard.png)
+   ![title_dashboard](../../images/titles/title_dashboard.png)
 
 2. **Titles** page opens up, click on the **Create New Title** button located on the top right corner.
 
-   ![title_page](../images/titles/titles_page.png)
+   ![title_page](../../images/titles/titles_page.png)
 
 3. Use the **Searchbar** or **Scroll** down the list to search for the desired title. When found click on the **Title**,enter a new title and press **Enter**.
 
-   ![title_edit](../images/titles/title_edit.png)
+   ![title_edit](../../images/titles/title_edit.png)
 
 ---
