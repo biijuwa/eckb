@@ -9,7 +9,9 @@ nav_order: 3
 
 ---
 
-### Steps to create a member group
+### Create a member group
+
+Text
 
 ---
 
@@ -17,7 +19,7 @@ nav_order: 3
 
    ![members_dashboard](../../images/members/member_group_dashboard.png)
 
-2. Click on **Create Member Group** button located on the top right.
+2. Click on **Create Member Group** button located on the top right corner.
 
    ![membergroup_page](../../images/members/membergroup_pages.png)
 
@@ -29,4 +31,32 @@ nav_order: 3
 
 ---
 
-### 
+### Change the status of a group member
+
+text
+
+---
+
+1. From the **Dashboard**, select **Group Members.**
+2. On the **Member Group** page, click on the **Show All list.**
+<br><h4> By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
+</h4>
+
+3. Search for the desired group member. When found click on the <b> _Status_ </b> toggle button next to it.
+
+   > **Tip:**
+
+---
+
+### Set a member group as default
+
+text
+
+---
+
+> **Important:** ><br> Only one **Member Group** can be set as a default at once.
+
+1. From the **Dashboard**, select **Group Members.**
+2. **Member Groups** page opens up, search for the desired group member. When found click on the <b> _Default_ </b> toggle button next to it.
+
+---
