@@ -42,9 +42,9 @@ text
 ---
 
 1. From the **Dashboard**, select **Group Members.**
-2. On the **Member Group** page, click on the **Show All list.** <br>
+2. On the **Member Group** page, click on the **Show All list.**
 
-   ##### By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
+   By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
 
    {: .fh-default .text-left }
 
