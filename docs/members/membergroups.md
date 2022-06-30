@@ -11,6 +11,8 @@ nav_order: 3
 
 ### Create a member group
 
+{: .fw-700 }
+
 Text
 
 ---
@@ -33,6 +35,8 @@ Text
 
 ### Change the status of a group member
 
+{: .fw-700 }
+
 text
 
 ---
@@ -42,6 +46,8 @@ text
 
    ##### By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
 
+   {: .lh-tight }
+
 3. Search for the desired group member. When found click on the <b> _Status_ </b> toggle button next to it.
 
    > **Tip:**
@@ -49,6 +55,8 @@ text
 ---
 
 ### Set a member group as default
+
+{: .fw-700 }
 
 text
 
