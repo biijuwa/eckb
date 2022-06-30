@@ -46,7 +46,7 @@ text
 
    By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
 
-   {: .fh-default .text-left }
+   {: .lh-tight .text-left }
 
 3. Search for the desired group member. When found click on the <b> _Status_ </b> toggle button next to it.
 
