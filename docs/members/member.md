@@ -49,3 +49,4 @@ nav_order: 1
 
    > **Q. Why is the URL in the email not working?** <br>
    > -> The URL sent in the email has expired. Usually, the password reset URL has an expiry period. If you access it after the expiry period, it may no longer work.
+   > {: .text-left}
