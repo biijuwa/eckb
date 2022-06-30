@@ -33,7 +33,9 @@ Text
 
 ---
 
-### Change the status of a group member {: .fw-700 }
+### Change the status of a group member
+
+{: .fw-700 }
 
 text
 
@@ -44,7 +46,7 @@ text
 
    ##### By default, only the **active group members** get displayed. Now you will be able to see the **inactive group members** as well.
 
-   {: .lh-tight }
+   {: .fh-default }
 
 3. Search for the desired group member. When found click on the <b> _Status_ </b> toggle button next to it.
 
