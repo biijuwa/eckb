@@ -5,6 +5,10 @@ parent: Notification Emails
 nav_order: 3
 ---
 
+## Intro
+
+---
+
 ### Create a support notification email
 
 ---
