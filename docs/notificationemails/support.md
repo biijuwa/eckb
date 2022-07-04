@@ -35,7 +35,7 @@ nav_order: 3
 2. Click on **Support.**
 3. **Support** page opens up, search for the email you want to remove.
 
-   ![notification_email_page](../../images/notificationemails/notification_email_page.png)
+   ![support_email_page](../../images/notificationemails/notification_email_page.png)
 
 4. When found, click on the ![delete_button](../../images/buttons/delete_2.png) located on the right of the same row.
 
