@@ -19,6 +19,9 @@ nav_order: 1
 
 2. **Notification Sale** page opens up, click on the ![create_notification_email](../../images/buttons/createnotificationemail.png) located on the top right corner.
 3. **Create Notification Email** dialog opens up, enter the notification email you want to add.
+
+    ![create_notification_email](../../images/notificationemails/creatnotificationemail.png)
+    
 4. Click on **Save.**
 
 ---
