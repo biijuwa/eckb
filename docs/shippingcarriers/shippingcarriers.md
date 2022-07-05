@@ -6,14 +6,7 @@ description:
 permalink:
 ---
 
-<details open markdown="block">
-  <summary>
-    <b>On this page</b>
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+## Shipping Carriers
 
 ---
 
