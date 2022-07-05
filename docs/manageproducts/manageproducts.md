@@ -25,5 +25,3 @@ This article shows you how to get started with product management. You’ll be a
 - [Stickers]({{ site.baseurl }}{% link docs/manageproducts/stickers/stickers.md %}#aux-links)
 - [Sizes]({{ site.baseurl }}{% link docs/manageproducts/size/sizes.md %}#aux-links)
 - [Colors]({{ site.baseurl }}{% link docs/manageproducts/colors/colors.md %}#aux-links)
-
-[Link to another page](another-page).
