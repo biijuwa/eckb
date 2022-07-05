@@ -10,7 +10,7 @@ permalink:
 
 ---
 
-# Navigation Structure
+---
 
 {: .no_toc }
 
