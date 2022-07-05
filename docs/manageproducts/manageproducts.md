@@ -13,9 +13,7 @@ permalink:
 A product is anything you sell. It is the core of a business.
 {: .text-left}
 
-This article shows you how to get started with product management.
-{: .text-left}
-
+This article shows you how to get started with product management.<br>
 You’ll be able to create or edit different categories for your products.
 {: .text-left .lh-tight}
 
