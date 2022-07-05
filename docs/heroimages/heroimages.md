@@ -6,11 +6,7 @@ description:
 permalink:
 ---
 
-# Hero Images
-
-{: .no_toc }
-
----
+aaaa
 
 ---
 
