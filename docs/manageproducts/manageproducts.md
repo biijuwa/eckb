@@ -8,11 +8,11 @@ has_toc: false
 permalink:
 ---
 
-# Products
+# Product
 
 A product is anything that is placed for sale. It is the core of a business.
 
-This article
+This article shows you how to get started with product management. You’ll be able to create and edit different categories used on a product page. 
 
 ---
 
