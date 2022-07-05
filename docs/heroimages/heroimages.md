@@ -10,8 +10,6 @@ Introduction
 
 ---
 
----
-
 <details open markdown="block">
   <summary>
     <b>Table of contents</b>
