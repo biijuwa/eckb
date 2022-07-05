@@ -6,15 +6,13 @@ description:
 permalink:
 ---
 
-## Hero Images
+# Hero Images
 
 {: .no_toc }
 
 ---
 
 ---
-
-{: .no_toc }
 
 <details open markdown="block">
   <summary>
