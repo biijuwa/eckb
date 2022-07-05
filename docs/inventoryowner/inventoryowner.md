@@ -21,8 +21,6 @@ permalink:
 
 ### Create an Inventory Owner
 
----
-
 Follow the steps to create an inventory owner.
 
 1. From the **Dashboard**, select **Inventory Owner.**
@@ -45,8 +43,6 @@ Follow the steps to create an inventory owner.
 ---
 
 ### Edit an inventory owner
-
----
 
 Follow the steps to edit an inventory owner.
 
