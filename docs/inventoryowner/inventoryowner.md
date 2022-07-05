@@ -25,11 +25,9 @@ permalink:
 
    ![inventory_dashboard](../../images/inventory/inventory1.png)
 
-2. **Inventory Owner** page opens up, click on the **Create Inventory Owner** located on the top right corner.
+2. **Inventory Owner** page opens up, click on the ![create_inventory_owner_button](../../images/buttons/createinvowner.png) located on the top right corner.
 
-   ![create_inventory_owner](../../images/inventory/inventory2.png)
-
-3. **Create New Inventory** dialog box opens up, enter the required details in each field.
+3. **Create New Inventory** dialog opens up, enter the required details in each field.
 
    ![create_inventory_dialog](../../images/inventory/inventory3.png)
 
@@ -42,11 +40,9 @@ permalink:
 
 ---
 
-### Steps to edit inventory owner
+### Steps to edit an inventory owner
 
 1. From the **Dashboard**, select **Inventory Owner.**
-
-   ![inventory_dashboard](../../images/inventory/inventory1.png)
 
 2. **Inventory Owner** page opens up. You can directly change the status of the any desired inventory owner to either **Active** or **Inactive**.
 
@@ -54,7 +50,7 @@ permalink:
 
 3. To change the **Status**, click on the **Toggle button** of the desired inventory owner from the status column. Or, else skip to next step.
 
-4. Either use the **Searchbar** or **Scroll** down the list to search for the desired inventory owner. When found, click on the ![edit_inventory_owner](../../images/buttons/ccheck.png) located on the far right.
+4. Search for the desired owner name. When found, click on the ![edit_inventory_owner](../../images/buttons/ccheck.png) located on the far right on same row.
 5. **Edit Inventory Owner** dialog opens up, edit the information in required fields.
 
    ![edit_inventory_owner](../../images/inventory/editinven.png)
