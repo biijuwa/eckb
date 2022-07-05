@@ -24,10 +24,9 @@ permalink:
 Follow the steps to create an inventory owner.
 
 1. From the **Dashboard**, select **Inventory Owner.**
+   {: .lh-0 }
 
    ![inventory_dashboard](../../images/inventory/inventory1.png)
-
-   {: .lh-0 }
 
 2. **Inventory Owner** page opens up, click on the ![create_inventory_owner_button](../../images/buttons/createinvowner.png) located on the top right corner.
 
