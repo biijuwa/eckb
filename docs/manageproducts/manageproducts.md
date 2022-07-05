@@ -8,9 +8,15 @@ has_toc: false
 permalink:
 ---
 
-# Introduction
+# Products
+
+A product is anything that is placed for sale. It is the core of a business.
+
+This article
 
 ---
+
+### Categories
 
 - [Sections]({{ site.baseurl }}{% link docs/manageproducts/sections/sections.md %}#aux-links)
 - [Catalogs]({{ site.baseurl }}{% link docs/manageproducts/catalogs/catalogs.md %}#aux-links)
