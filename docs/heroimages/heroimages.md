@@ -6,9 +6,12 @@ description:
 permalink:
 ---
 
-Getting clicked with a product at the very first sight is heavenly. A hero image serves the same experience to the customer. Capturing the visitor’s attention and maintaining engagement is what a hero image is best at.
+Getting clicked with a product on the very first sight is heavenly. Don’t you agree?
+It was the enticing product image that triggered the connection. Don’t you think?
 
-Creating an enticing hero image, editing, and even deleting when required are all explained in this article.
+A hero image is the main product image that reels any of the customer in. Capturing the visitor’s attention and maintaining engagement is what a hero image is best at.
+
+In this article we will understand the streps of creating a hero image, editing, and deleting.
 
 ---
 
