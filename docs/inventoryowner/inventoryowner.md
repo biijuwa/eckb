@@ -64,7 +64,7 @@ Follow the steps to edit an inventory owner.
 6. When you are done with changes, click on the **Save Changes** button.
 
 ---
-<span class="badge badge-danger">Danger</span>
+<span class="badge badge-danger"> Danger </span>
 
 <button class="btn btn-primary">
   hello there
