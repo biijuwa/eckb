@@ -29,7 +29,7 @@ Follow the steps to create an inventory owner.
    ![inventory_dashboard](../../images/inventory/inventory1.png)
    {: .fh-default }
 
-2. **Inventory Owner** page opens up, click on the ![create_inventory_owner_button](../../images/buttons/createinvowner.png)<span class="badge badge-danger">Danger</span> located on the top right corner.
+2. **Inventory Owner** page opens up, click on the ![create_inventory_owner_button](../../images/buttons/createinvowner.png) located on the top right corner.
 
 3. **Create New Inventory** dialog opens up, enter the required details in each field.
 
@@ -68,3 +68,5 @@ Follow the steps to edit an inventory owner.
 <button class="btn btn-primary disabled background-color:#008CBA">
   hello there
 </button>
+
+<span class="badge badge-danger">Danger</span>
