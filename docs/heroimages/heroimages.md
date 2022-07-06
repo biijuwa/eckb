@@ -54,9 +54,7 @@ Follow the steps to edit a hero image.
 
 1. From the **Dashboard**, select **Hero Images.**
 
-   ![hero_images](../../images/heroimages/heroimgdash.png)
-
-2. **Hero Images** page opens up. Either use **searchbar** or **scroll** down the images list to search for the appropriate image.
+2. **Hero Images** page opens up, search for the appropriate image.
 
    ![hero_images_page](../../images/heroimages/hero_img_pages.png)
 
