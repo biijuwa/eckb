@@ -8,9 +8,9 @@ permalink:
 
 Getting clicked with a product on the very first sight is heavenly. Don’t you agree?
 It was the enticing product image that triggered the connection. Don’t you think?
-A hero image in our case the main product image that reels any of the customer in. 
+A hero image in our case the main product image that reels any of the customer in.
 Capturing the visitor’s attention and maintaining engagement is what a hero image is best at.
-{: .fh-default text-left .fs-4 }
+{: .fh-default .text-left .fs-4 }
 In this article we will understand the streps of creating, editing, and deleting a hero image.
 
 ---
