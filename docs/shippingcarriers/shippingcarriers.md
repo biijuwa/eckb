@@ -10,14 +10,14 @@ A shipping carrier is a service company that handles the delivery of your produc
 {: .fh-default .text-left .fs-4 }
 
 Through our partnership program, we have integrated with major shipping carriers.
-In this article, you will be able to assign the most suitable carrier as a primary shipping carrier.
+In this article, you will be able to assign the most suitable carrier as your primary shipping carrier.
 
 ---
 
 ### Follow the steps to mark a Shipping Carrier as a primary
 
 > **Important:** <br>
-> Only one carrier can be set as **Primary Carrier.**
+> Remember you can only set one carrier as **Primary Carrier.**
 
 1. From the **Dashboard**, select **Shipping Carriers.**
 
