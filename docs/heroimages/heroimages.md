@@ -54,17 +54,16 @@ Follow the steps to edit a hero image.
 
 1. From the **Dashboard**, select **Hero Images.**
 
-2. **Hero Images** page opens up, search for the appropriate image.
+2. **Hero Images** page opens up, search for the appropriate image. When an appropriate image is found, click on the ![](../../images/buttons/herocheck.png) located on the right.
 
    ![hero_images_page](../../images/heroimages/hero_img_pages.png)
 
-3. When an appropriate image is found, click on the ![](../../images/buttons/herocheck.png) located on the right.
-4. **Hero Images Edit** page opens up, edit the required information in each field.
+3. **Hero Images Edit** page opens up, edit the required information in each field.
 
    ![hero_edit_img](../../images/heroimages/hero_img_edit.png)
 
-5. **[Optional]** Click to toggle the status to **ON** to set the hero image to **Active** or **OFF** to set it to **Inactive.**
-6. After you are done, click on the **Upate Hero Image.**
+4. **[Optional]** Click to toggle the status to **ON** to set the hero image to **Active** or **OFF** to set it to **Inactive.**
+5. After you are done, click on **Upate Hero Image.**
 
 ---
 
@@ -74,13 +73,10 @@ Follow the steps to Delete a hero image.
 
 1. From the **Dashboard**, select **Hero Images.**
 
-   ![hero_images](../../images/heroimages/heroimgdash.png)
-
-2. **Hero Images** page opens up. Either use **searchbar** or **scroll** down the images list to search for the appropriate image.
+2. **Hero Images** page opens up, search for the appropriate image. When found, click on ![hero_img_delete](../../images/buttons/herodel.png) located on the right.
 
    ![hero_images_page](../../images/heroimages/hero_img_pages.png)
 
-3. When an appropriate image is found, click on the ![hero_img_delete](../../images/buttons/herodel.png) located on the right.
-4. **Confirmation** dialog box opens up, click on **Yes.**
+3. **Confirmation** dialog box opens up, click on **Yes** to confirm.
 
 ---
