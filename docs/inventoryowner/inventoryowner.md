@@ -68,5 +68,3 @@ Follow the steps to edit an inventory owner.
 <button class="btn btn-primary disabled background-color:#008CBA">
   hello there
 </button>
-
-<span class="badge badge-danger">Danger</span>
