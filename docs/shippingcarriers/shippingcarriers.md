@@ -9,7 +9,7 @@ permalink:
 A shipping carrier is a service company that handles the delivery of your product to the customer. It is crucial to choose the right shipping carrier but deciding on which carrier to opt for is always circumstantial. Each carrier provides its own set of services.
 {: .fh-default .text-left .fs-4 }
 
-Through our partnership with different shipping carriers, have integration with major carriers.
+Through our partnership program, we have integrated with major shipping carriers.
 In this article, you will be able to assign the most suitable carrier as a primary shipping carrier.
 
 ---
