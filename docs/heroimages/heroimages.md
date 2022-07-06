@@ -11,7 +11,7 @@ It was the enticing product image that triggered the connection. Don’t you thi
 
 A hero image is the main product image that reels any of the customer in. Capturing the visitor’s attention and maintaining engagement is what a hero image is best at.
 
-In this article we will understand the streps of creating a hero image, editing, and deleting.
+In this article we will understand the streps of creating, editing, and deleting a hero image.
 
 ---
 
