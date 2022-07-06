@@ -29,7 +29,7 @@ Follow the steps to create an inventory owner.
    ![inventory_dashboard](../../images/inventory/inventory1.png)
    {: .fh-default }
 
-2. **Inventory Owner** page opens up, click on the <button class="btn btn-primary disabled">
+2. **Inventory Owner** page opens up, click on the <button class="btn disabled">
    Create Inventory Owner </button> located on the top right corner.
 
 3. **Create New Inventory** dialog opens up, enter the required details in each field.
