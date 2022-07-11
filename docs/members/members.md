@@ -19,7 +19,7 @@ In this article, you can browse through different categories to learn to perform
 [Members]({{ site.baseurl }}{% link docs/members/members.md %}#aux-links)
 [Member Swag Setting]({{ site.baseurl }}{% link docs/members/memberswagsetting.md %}#aux-links)
 [Member Groups]({{ site.baseurl }}{% link docs/members/membergroups.md %}#aux-links)
-[Bulk Assign Group]({{ site.baseurl }}{% link docs/manageproducts/members/bulkassigngroups.md %}#aux-links)
+[Bulk Assign Group]({{ site.baseurl }}{% link docs/members/bulkassigngroups.md %}#aux-links)
 [Bulk Assign Group Rules]({{ site.baseurl }}{% link docs/members/bulkassigngrouprules.md %}#aux-links)
 [Bulk Member Upload]({{ site.baseurl }}{% link docs/members/bulkmemberupload.md %}#aux-links)
 [Bulk Credit Upload]({{ site.baseurl }}{% link docs/members/bulkcreditupload.md %}#aux-links)
