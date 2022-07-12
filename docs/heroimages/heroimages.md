@@ -48,7 +48,6 @@ Follow the steps to create a hero image.
     - In the **Link** section, enter a **URL** that the image redirects to.
 
 4.  Click on the **Create Hero Image**.
-5.
 
 <a href="#top" id="back-to-top">uyghgjh</a>
 
