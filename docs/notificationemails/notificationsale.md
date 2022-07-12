@@ -24,6 +24,8 @@ nav_order: 1
 
 4. Click on **Save.**
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
 
 ### Remove a notification email
@@ -38,5 +40,7 @@ nav_order: 1
 3. When found, click on the ![delete_button](../../images/buttons/delete_2.png) located on the right of the same row.
 
 4. **Delete Notification Email** dialog opens up, click on the **Yes.**
+
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---

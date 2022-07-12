@@ -70,4 +70,6 @@ In this article, you will be able to assign the most suitable carrier as your pr
 
    d. After you are done, click on the **Save.**
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---

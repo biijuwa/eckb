@@ -34,3 +34,7 @@ permalink:
    ![orders_details](../../images/orders/order_detail.png)
 
 5. To cancel
+
+<a href="#top" id="back-to-top">Back to top</a>
+
+---

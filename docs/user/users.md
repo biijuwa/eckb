@@ -27,3 +27,7 @@ permalink:
    > **NOTE:** <br> By default the status for a new user being created is set to **Active**. If you want to set is as **Inactive**, click on the **Toggle Button**.
 
 4. Click on the **Create New User**.
+
+<a href="#top" id="back-to-top">Back to top</a>
+
+---

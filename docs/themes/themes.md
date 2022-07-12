@@ -25,6 +25,8 @@ permalink:
 3. To apply the selected theme, cli ck on the ![install_theme_button](../../images/buttons/installtheme.png)
 4. **Confirmation** dialog opens up, click on **Yes** to apply the theme.
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
 
 ### Steps to Customize a theme

@@ -26,6 +26,8 @@ permalink:
 
 4. After you are done, click on **Save New Title** button.
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
 
 ### Steps to rename a title
@@ -41,5 +43,7 @@ permalink:
 3. Use the **Searchbar** or **Scroll** down the list to search for the desired title. When found click on the **Title**,enter a new title and press **Enter**.
 
    ![title_edit](../../images/titles/title_edit.png)
+
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---

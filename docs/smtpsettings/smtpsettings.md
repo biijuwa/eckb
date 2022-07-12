@@ -26,4 +26,6 @@ permalink:
 
 4. When you are done, click on **Save.**
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---

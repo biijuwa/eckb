@@ -25,6 +25,8 @@ nav_order: 6
 
 5. Click on **Save.**
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
 
 ### Delete a quaterly inventory report alert email
@@ -40,5 +42,7 @@ nav_order: 6
 4. When found, click on the ![delete_button](../../images/buttons/delete_2.png) located on the right of the same row.
 
 5. **Delete Notification Email** dialog opens up, click on the **Yes.**
+
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---

@@ -28,4 +28,6 @@ permalink:
 
 4. Click on the **Create User Group**.
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
