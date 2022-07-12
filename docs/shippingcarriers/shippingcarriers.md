@@ -15,28 +15,28 @@ In this article, you will be able to assign the most suitable carrier as your pr
 
 ### Marking a shipping carrier as primary
 
-Follow the steps to mark a Shipping Carrier as a primary
-
 <br>
 
+Follow the steps to mark a Shipping Carrier as a primary
+
 > **Important:** <br>
-> You can only set one shipping carrier as your **Primary Carrier.**
+> From all the listed carrier, you can only set one shipping carrier as your **Primary Carrier.**
 
 1. From the **Dashboard**, select **Shipping Carriers.**
 
    ![shipping_carrier_dashboard](../../images/shippingcarriers/shippingcarrier_dashboard.png)
 
-2. **Shipping Carriers** page opens up. Search for the shipping carrier you want to make primary. When you find the shipping carrier, click the ![edit_button](../../images/buttons/editbtn.png) located on the right.
+2. **Shipping Carriers** page opens up. Search for the appropriate shipping carrier and click on the ![edit_button](../../images/buttons/editbtn.png) located on the right.
 
    ![shippingcarriers_page](../../images/shippingcarriers/shippingcarrier_page.png)
 
-3. If you want to select **Fedex** as primary, follow the steps. Or else skip it.
+3. If you want to select **Fedex** as primary, follow the steps. Or else you may skip.
 
    a. **Update Store Shipping Carrier of Fedex** dialog box opens up.
 
    ![fedex_update](../../images/shippingcarriers/fedex_update.png)
 
-   b. By default, the **Voxship's** FedEx account gets selected. If you want to use your **Store's** FedEx account, select **Store Account**. Or else skip the step.
+   b. By default, the **Voxship's** FedEx account gets selected. If you want to use your **Store's** FedEx account, select **Store Account**. Or else skip this step.
 
    - If you have selected the store account, new data fields appear. Enter the required information in each field.
 
