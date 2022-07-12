@@ -49,7 +49,9 @@ Follow the steps to create a hero image.
 
 4.  Click on the **Create Hero Image**.
 
-<a href="#top" id="back-to-top">uyghgjh</a>
+<a href="#top" id="back-to-top">Back to top</a>
+
+---
 
 ## Edit a Hero Image
 
@@ -71,6 +73,8 @@ Follow the steps to edit a hero image.
 4. **[Optional]** Click to toggle the status to **ON** to set the hero image to **Active** or **OFF** to set it to **Inactive.**
 5. After you are done, click on **Upate Hero Image.**
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
 
 ## Delete a Hero Image
@@ -84,5 +88,7 @@ Follow the steps to Delete a hero image.
    ![hero_images_page](../../images/heroimages/hero_img_pages.png)
 
 3. **Confirmation** dialog box opens up, click on **Yes** to confirm.
+
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---
