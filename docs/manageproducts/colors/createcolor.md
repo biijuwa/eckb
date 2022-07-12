@@ -25,4 +25,6 @@ nav_exclude: true
 
 5. Click on the **Save New Color**.
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---

@@ -43,6 +43,8 @@ Follow the steps to create an inventory owner.
 
 4. Click on **Create Inventory Owner.**
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
 
 ### Edit an inventory owner
@@ -63,5 +65,7 @@ Follow the steps to edit an inventory owner.
    ![edit_inventory_owner](../../images/inventory/editinven.png)
 
 6. When you are done with changes, click on the **Save Changes** button.
+
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---

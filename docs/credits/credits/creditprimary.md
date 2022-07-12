@@ -28,4 +28,4 @@ nav_exclude: true
 5. Toggle the **Enable Credit As Primary** to **ON** to **SET** the credit as primary.
 6. Click on the **Save**.
 
----
+## <a href="#top" id="back-to-top">Back to top</a>

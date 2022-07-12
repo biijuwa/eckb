@@ -76,4 +76,6 @@ nav_exclude: true
 
 13. Click on **Save Catalog** button to complete.
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---

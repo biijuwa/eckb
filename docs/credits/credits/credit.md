@@ -28,3 +28,7 @@ nav_exclude: true
    > Retail Enable Flag is used when you ca
 
 6. Click on the **Save Credit.**
+
+<a href="#top" id="back-to-top">Back to top</a>
+
+---

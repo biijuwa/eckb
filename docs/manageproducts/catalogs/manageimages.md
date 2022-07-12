@@ -46,4 +46,6 @@ nav_exclude: true
    - Click on the ![delete_image](../../../images/buttons/delete.png "Delete Image")
    - Click on the **Yes** button to confirm.
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---

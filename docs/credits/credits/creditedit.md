@@ -33,4 +33,4 @@ nav_exclude: true
 9. **[OPTIONAL]** Toggle the **Enable Credit As Primary** to **ON** or **OFF** to **SET** or **UNSET** the credit as primary.
 10. Click on the **Save**.
 
----
+## <a href="#top" id="back-to-top">Back to top</a>

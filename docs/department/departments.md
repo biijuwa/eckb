@@ -36,6 +36,8 @@ Follow the steps to create a department. <br>
 
 4. Click on the **Save New Department.**
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
 
 ### Edit the name of a Department
@@ -51,5 +53,7 @@ Follow the steps to edit the name of the department.<br>
 3. A text field appears. Delete and enter new name for the department.
 
    ![department_pages](../../images/departments/editdprt2.png)
+
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---

@@ -25,4 +25,6 @@ nav_exclude: true
 
 4. Click on the **Save New Size** button.
 
+<a href="#top" id="back-to-top">Back to top</a>
+
 ---
