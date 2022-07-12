@@ -28,7 +28,8 @@ To mark a Shipping Carrier as primary:
 
    ![shippingcarriers_page](../../images/shippingcarriers/shippingcarrier_page.png)
 
-   > _Note:_ Here **FedEx** is set as primary carrier.
+   > _Note:_ <br>
+   > Here **FedEx** is set as primary carrier.
 
 3. If you have selected **Fedex** follow these steps or else you may skip.
 
