@@ -13,9 +13,7 @@ In this article, you will be able to assign the most suitable carrier as your pr
 
 ---
 
-### Marking a shipping carrier as primary
-
-<br>
+### Mark a shipping carrier as primary
 
 Follow the steps to mark a Shipping Carrier as a primary
 
@@ -26,7 +24,7 @@ Follow the steps to mark a Shipping Carrier as a primary
 
    ![shipping_carrier_dashboard](../../images/shippingcarriers/shippingcarrier_dashboard.png)
 
-2. **Shipping Carriers** page opens up. Search for the appropriate shipping carrier and click on the ![edit_button](../../images/buttons/editbtn.png) located on the right.
+2. **Shipping Carriers** page opens up. Search for the appropriate shipping carrier. When found click on the ![edit_button](../../images/buttons/editbtn.png) located on the right.
 
    ![shippingcarriers_page](../../images/shippingcarriers/shippingcarrier_page.png)
 
