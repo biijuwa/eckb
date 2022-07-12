@@ -13,7 +13,7 @@ In this article, you will be able to assign the most suitable carrier as your pr
 
 ---
 
-### Mark a shipping carrier as primary
+## **Mark a shipping carrier as primary**
 
 Follow the steps to mark a Shipping Carrier as a primary
 
