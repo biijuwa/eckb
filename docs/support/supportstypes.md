@@ -48,9 +48,9 @@ Follow these steps to create a ticket type.
 
 ---
 
-## Rename ticket type (Ticket's title)
+## Rename ticket type
 
-Follow the steps to change the ticket type/title.
+Follow the steps to change the ticket's title.
 
 1. From the **Dashboard**, select **Supports.**
 2. Click on **Supports Types.**
