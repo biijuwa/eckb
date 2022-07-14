@@ -15,7 +15,7 @@ In this article, you will be able to assign the most suitable carrier as your pr
 
 ## **Mark a shipping carrier as primary**
 
-To mark a Shipping Carrier as primary:
+Follow these steps to mark a shipping carrier as primary.
 
 > **Important:** <br>
 > From all the listed carrier, you can only set one shipping carrier as your **Primary Carrier.**
