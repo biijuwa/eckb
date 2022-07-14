@@ -18,6 +18,14 @@ Intro
 {:toc}
 </details>
 ---
+
+### Things to know before you start
+
+- ![active_button](../../images/buttons/on.png) means **Active.**
+- ![deactive_button](../../images/buttons/off.png) means
+
+|button|
+
 ## Create a Ticket Type
 
 Follow these steps to create a ticket type.
@@ -26,10 +34,28 @@ Follow these steps to create a ticket type.
 
    ![support_type_dashboard](../../images/dsupports/st_dashboard.png)
 
-2. Click ![create_ticket_type_button](../../images/buttons/createtickettype.png) located on top right.
+2. Click on **Supports Types.**
 
-3. **Create Ticket Type** confirmation dialog box opens up, enter title for the ticket.
+3. Click ![create_ticket_type_button](../../images/buttons/createtickettype.png) located on the top right.
+
+4. **Create Ticket Type** confirmation dialog box opens up, enter title for the ticket.
 
    ![create_ticket_type_confirmation](../../images/dsupports/cttype.png)
 
-4. Click **Save** to confirm.
+5. Click **Save** to confirm.
+
+---
+
+## Edit the title
+
+Follow the steps to edit the name of the ticket type.
+
+1. From the **Dashboard**, select **Supports.**
+2. Click on **Supports Types.**
+3. **Supports Types** page opens up.
+
+   ![supports_types_page](../../images/dsupports/stypes_page.png)
+
+   > _Note:_ ![active_button](../../images/buttons/on.png) means **Active.**
+
+4.
