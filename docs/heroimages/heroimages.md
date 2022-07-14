@@ -72,13 +72,13 @@ Follow the steps to Delete a hero image.
 ## Edit a Hero Image
 
 > **Important:**<br>
-> A hero image cannot be replaced, so the only option is to delete it, but no need to fear you can edit other information.
+> You cannot replace a hero image, so the only option is to delete it. Though, you can change its required information.
 
 Follow the steps to edit a hero image.
 
 1. From the **Dashboard**, select **Hero Images.**
 
-2. **Hero Images** page opens up, search for the appropriate image. When an appropriate image is found, click on the ![](../../images/buttons/herocheck.png) located on the right.
+2. **Hero Images** page opens up, search for the appropriate image. When found, click on the ![](../../images/buttons/herocheck.png) located on the right.
 
    ![hero_images_page](../../images/heroimages/hero_img_pages.png)
 
