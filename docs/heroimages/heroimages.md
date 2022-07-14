@@ -18,13 +18,13 @@ In this article we will go over the steps for creating, editing, and deleting a 
 
 <details open markdown="block">
   <summary>
-    <b>Table of contents</b>
+    <b>In this article.</b>
   </summary>
   {: .text-delta }
-1. TOC
+
 {:toc}
-</details>
----
+
+## </details>
 
 ## Create a Hero Image
 
