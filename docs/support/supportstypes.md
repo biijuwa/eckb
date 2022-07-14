@@ -19,7 +19,7 @@ Intro
 </details>
 ---
 
-### Things to know before you start
+<b> _Things to know_ </b>
 
 - ![active_button](../../images/buttons/on.png) means **Active.**
 - ![deactive_button](../../images/buttons/off.png) means
