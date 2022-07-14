@@ -21,10 +21,10 @@ In this article we will go over the steps for creating, editing, and deleting a 
     <b>In this article.</b>
   </summary>
   {: .text-delta }
-
+* TOC
 {:toc}
-
-## </details>
+</details>
+---
 
 ## Create a Hero Image
 
