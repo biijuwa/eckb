@@ -42,7 +42,7 @@ Follow these steps to create a ticket type.
 
 5. Click **Save** to confirm.
 
-## <a href="#top" id="back-to-top">Back to top</a>
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---
 
@@ -56,7 +56,7 @@ Follow the steps to change the ticket type/title.
 
    ![supports_types_page](../../images/dsupports/stypes_page.png)
 
-   > _Tip:_ If you want to list to contain both _active_ and _inactive_ ticket title, click on **Show All List.**
+   > _Tip:_ If you want the list to contain both _active_ and _inactive_ ticket title click on **Show All List.**
 
 4. Text field opens up. Enter a new _title name_ and then press **Enter.**
 
@@ -76,9 +76,13 @@ Follow the steps to change the ticket type's status.
 2. Click on **Supports Types.**
 3. **Supports Types** page opens up. Click on the desired _tile name_ from the list.
 
-   > _Important:_ You can only view the _Inactive_ titles when you **Turn on** the _Show All List_ option so click on the option to turn it on.
+   > _Important:_ You can only view the <b>_Inactive_</b> titles when you **Turn on** the _Show All List_ option so click on it to turn it on.
 
    ![supports_types_page](../../images/dsupports/stypes_page.png)
 
-4. To change the status from _Active_ to _Inactive_, click on ![active_button](../../images/buttons/on.png) located on the right side of the desired title.
+4. To change the status from _Active_ to _Inactive_, click on ![active_button](../../images/buttons/on.png) located on the right side of the desired title. Or else skip it.
 5. To change the status from _Inactive_ to _Active_, click on ![inactive_button](../../images/buttons/off.png) located on the right side of the desired title.
+
+<a href="#top" id="back-to-top">Back to top</a>
+
+---
