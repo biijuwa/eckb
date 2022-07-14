@@ -21,10 +21,9 @@ Intro
 
 <b> _Things to know_ </b>
 
+- You cannot delete a _Ticket Type_ but change the status to **Deactive.**
 - ![active_button](../../images/buttons/on.png) means **Active.**
-- ![deactive_button](../../images/buttons/off.png) means
-
-|button|
+- ![deactive_button](../../images/buttons/off.png) means **Deactive.**
 
 ## Create a Ticket Type
 
