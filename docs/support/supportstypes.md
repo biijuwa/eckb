@@ -21,8 +21,10 @@ Intro
 
 <b> _Things to know_ </b>
 
-- You cannot delete a **_Ticket Type_** but only change the status to **Deactivated.**
+- You cannot delete a **_Ticket Type_** but only change the status to **Inactive.**
 - ![active_button](../../images/buttons/on.png) means **Active** and ![inactive_button](../../images/buttons/off.png) means **Inactive.**
+
+---
 
 ## Create a Ticket Type
 
@@ -56,13 +58,13 @@ Follow the steps to change the ticket type/title.
 
    ![supports_types_page](../../images/dsupports/stypes_page.png)
 
-   > _Tip:_ If you want the list to contain both _active_ and _inactive_ ticket title click on **Show All List.**
+   > _Tip:_ If you want the list to contain both <b>_active_</b> and <b>_inactive_</b> ticket title click on **Show All List.**
 
 4. Text field opens up. Enter a new _title name_ and then press **Enter.**
 
    ![edit_title](../../images/dsupports/edit_title.png)
 
-   > **Note:** <br> As an example we are renaming the title name for _Order Issure._
+   > **Note:** <br> As an example we are renaming the title name for <b>_Order Issue._</b>
 
 <a href="#top" id="back-to-top">Back to top</a>
 
@@ -80,8 +82,8 @@ Follow the steps to change the ticket type's status.
 
    ![supports_types_page](../../images/dsupports/stypes_page.png)
 
-4. To change the status from _Active_ to _Inactive_, click on ![active_button](../../images/buttons/on.png) located on the right side of the desired title. Or else skip it.
-5. To change the status from _Inactive_ to _Active_, click on ![inactive_button](../../images/buttons/off.png) located on the right side of the desired title.
+4. To change the status from <b>_Active_</b>to <b>_Inactive_</b>, click on ![active_button](../../images/buttons/on.png) located on the right side of the desired title. Or else skip it.
+5. To change the status from <b>_Inactive_</b>to<b> _Active_</b>, click on ![inactive_button](../../images/buttons/off.png) located on the right side of the desired title.
 
 <a href="#top" id="back-to-top">Back to top</a>
 
