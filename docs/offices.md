@@ -38,7 +38,7 @@ Follow these steps to create an office.
 
 4. After you complete, click on **Save.**
 
-## <a href="#top" id="back-to-top">Back to top</a>
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---
 
@@ -56,7 +56,7 @@ Follow these steps to delete an office.
 
    ![edit_office](../images/office/delete_office.png)
 
-## <a href="#top" id="back-to-top">Back to top</a>
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---
 
@@ -76,6 +76,6 @@ Follow these steps to edit an office.
 
 4. After you are done, click on **Save.**
 
-## <a href="#top" id="back-to-top">Back to top</a>
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---
