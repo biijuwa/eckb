@@ -29,7 +29,7 @@ Follow these steps to create an office.
 
    ![office_dashboard](../images/office/office_dashboard.png)
 
-2. Click on ![create_office](../images/buttons/coffice.png) located on the top right corner of the screen.
+2. Click ![create_office](../images/buttons/coffice.png) located on the top right corner of the screen.
 
    ![office_page](../images/office/office_page.png)
 
