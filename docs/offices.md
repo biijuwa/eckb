@@ -64,17 +64,19 @@ Follow these steps to delete an office.
 
 Follow these steps to edit an office.
 
-1. From the **Dashboard,** select **Offices.**
+1.  From the **Dashboard,** select **Offices.**
 
-2. **Offices** page opens up. Search for desired **_Office name_**, and then click on ![edit_button](../images/buttons/edit.png) located at the right on the same row.
+2.  **Offices** page opens up. Search for desired **_Office name_**, and then click on ![edit_button](../images/buttons/edit.png) located at the right on the same row.
 
-   ![office_page](../images/office/office_page.png)
+    ![office_page](../images/office/office_page.png)
 
-   > **Note:** As an example, we will be editing **_Office 1._**
+3.  **Update Office** dialog box opens up, edit the information in the required fields.
 
-3. **Update Office** dialog box opens up, edit the information in the required fields.
+    ![edit_office](../images/office/edit_office.png)
 
-4. After you are done, click on **Save.**
+    > **Note:** As an example, we will be editing **_Office 1._**
+
+4.  After you are done, click on **Save.**
 
 <a href="#top" id="back-to-top">Back to top</a>
 
