@@ -36,7 +36,7 @@ Follow these steps to create an office.
 
    > **Note:** Fields with '\*' cannot be left blank.
 
-4. After you complete, click on **Save.**
+4. After you are done, click on **Save.**
 
 <a href="#top" id="back-to-top">Back to top</a>
 
