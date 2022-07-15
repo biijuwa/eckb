@@ -33,6 +33,8 @@ Follow these steps to create an office.
 
    ![office_page](../images/office/office_page.png)
 
+   Only the offices with **_active_** status are displayed.
+
 3. **Create New Office** dialog box opens up, enter the required information in each field.
 
    ![create_dialogbox](../images/office/create_office.png)
