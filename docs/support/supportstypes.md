@@ -48,7 +48,7 @@ Follow these steps to create a ticket type.
 
 ---
 
-## Rename ticket type
+## Rename a ticket type
 
 Follow the steps to change the ticket's title.
 
@@ -70,7 +70,7 @@ Follow the steps to change the ticket's title.
 
 ---
 
-## Change the status
+## Change ticket type's status
 
 Follow the steps to change the ticket type's status.
 
