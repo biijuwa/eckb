@@ -37,7 +37,7 @@ Follow these steps to create an office.
 
    ![create_dialogbox](../images/office/create_office.png)
 
-   > **Note:** Fields with '\*' cannot be left blank.
+   > **Note:** Fields with \* cannot be left blank.
 
 4. After you are done, click on **Save.**
 
