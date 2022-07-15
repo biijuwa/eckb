@@ -75,7 +75,7 @@ Follow these steps to edit an office.
 
     ![office_page](../images/office/office_page.png)
 
-3.  **Update Office** dialog box opens up, edit the information in the required fields. <br>sAs an example, we will be editing **_Office 1._**
+3.  **Update Office** dialog box opens up, edit the information in the required fields. <br>As an example, we will be editing **_Office 1._**
 
     ![edit_office](../images/office/edit_office.png)
 
