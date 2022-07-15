@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Payment Setup
-nav_order: 9
+nav_order: 11
 description:
 permalink:
 ---
