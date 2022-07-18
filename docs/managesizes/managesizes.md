@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manage Sizes
-nav_order: 25
+nav_order: 3
 description:
 has_toc: true
 permalink:

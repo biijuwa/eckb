@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Departments
-nav_order: 6
+nav_order: 7
 description:
 permalink:
 ---

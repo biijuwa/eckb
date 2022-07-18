@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Credits
-nav_order: 5
-description: 
+nav_order: 6
+description:
 has_children: true
-permalink: 
-
+permalink:
 ---
