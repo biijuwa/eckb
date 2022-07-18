@@ -7,7 +7,7 @@ has_toc: true
 permalink:
 ---
 
-## Intro
+<b> Introduction </b>
 
 ---
 
@@ -36,7 +36,7 @@ To create a new size category follow these steps.
 
 3. **Create New Size** dialog box opens up, enter the _name_ for the size.
 
-   ![create_new_size](../../images/managesizes/newsize_dialog.png)
+   ![create_new_size](../../images/managesizes/newsizecat_dialog.png)
 
 4. Click on **Save New Size.**
 
@@ -44,5 +44,15 @@ To create a new size category follow these steps.
 
 ---
 
-## 
-![sub_manage_size](../../images/managesizes/msize_page.png)
+## Create New Sizes for a Category.
+
+1. From the **Dashboard,** select **Manage Sizes.**
+2. **Manage Size Category** page opens up. Search for the desired _*category*_ and click on ![edit_button](../../images/buttons/edit.png) located at the right on same row.
+
+3. **Manage sizes** page opens up. Click on ![create_new_size](../../images/buttons/cnewsize.png) located on the top right corner.
+4. **Create New Size** dialog box opens up, enter a name for the size.
+5. Click on **Save New Size** to complete.
+
+<a href="#top" id="back-to-top">Back to top</a>
+
+---
