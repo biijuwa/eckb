@@ -44,14 +44,22 @@ To create a new size category follow these steps.
 
 ---
 
-## Create New Sizes for a Category.
+## Create a new sizes for a category.
 
 1. From the **Dashboard,** select **Manage Sizes.**
-2. **Manage Size Category** page opens up. Search for the desired _*category*_ and click on ![edit_button](../../images/buttons/edit.png) located at the right on same row.
+2. **Manage Size Category** page opens up. Search for the desired _*category*_ and then click on ![edit_button](../../images/buttons/edit.png) located at the right on the same row.
+
+   ![size_category_page](../../images/managesizes/ms_page.png)
 
 3. **Manage sizes** page opens up. Click on ![create_new_size](../../images/buttons/cnewsize.png) located on the top right corner.
+
+   ![size_category_page](../../images/managesizes/newsize_page.png)
+
 4. **Create New Size** dialog box opens up, enter a name for the size.
-5. Click on **Save New Size** to complete.
+
+   ![create_new_size_dialog](../../images/managesizes/newsize_dialog.png)
+
+5. Click **Save New Size** to complete.
 
 <a href="#top" id="back-to-top">Back to top</a>
 
