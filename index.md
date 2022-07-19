@@ -8,6 +8,21 @@ permalink: /
 
 ### Navigating Knowledgebase
 
+---
+
+<details open markdown="block">
+  <summary>
+    <b>In this article.</b>
+  </summary>
+  {: .text-delta }
+* TOC
+{:toc}
+</details>
+
+---
+
 ![dashboard](/images/index/interface.png)
+
+---
 
 ### FREQUENTLY ASKED QUESTIONS
