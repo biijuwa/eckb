@@ -12,7 +12,7 @@ permalink: /
 
 <details open markdown="block">
   <summary>
-    <b>In this article.</b>
+    <b>Topics coveted in this article.</b>
   </summary>
   {: .text-delta }
 * TOC
