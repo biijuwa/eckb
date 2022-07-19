@@ -13,8 +13,19 @@ permalink:
 Every business be it small or large consists of departments. Department simply is a unit that deals with a specific area of function. All the departments work together to achieve the ultimate goal of the prosperity of a business.
 {: .fw-400 .text-left}
 
-This article is designed to help you create a new department and change the name of the exisitng department.
+This article is designed to help you create a new department and change the name of the existing department.
 {: .fw-400 .text-left}
+
+---
+
+<details open markdown="block">
+  <summary>
+    <b>Topics covered in this article:</b>
+  </summary>
+  {: .text-delta }
+* TOC
+{:toc}
+</details>
 
 ---
 
