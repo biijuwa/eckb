@@ -41,29 +41,29 @@ Follow the steps to create a department. <br>
 
    ![department_pages](../../images/departments/dprt2.png)
 
-3. **Create New Department** dialog box opens up, enter the required details in each field.
+3. **Create New Department** dialog box opens up, enter the required information in each field.
 
    ![department_pages](../../images/departments/dprt3.png)
 
-4. Click on the **Save New Department.**
+4. Click on **Save New Department.**
 
 <a href="#top" id="back-to-top">Back to top</a>
 
 ---
 
-### Edit the name of a Department
+### Edit a Department
 
-Follow the steps to edit the name of the department.<br>
+Follow the steps to edit the name of a department.<br>
 
 1. From the **Dashboard**, select **Departments.**
 
-   ![department_menu](../../images/departments/dprt1.png)
+2. **Departments** page opens up. Search and then click on the desired **_Department name._**
 
-2. Use the **searchbar** or **scroll** down the list to search for the desired department. When found, click on the **Department's** name.
-
-3. A text field appears. Delete and enter new name for the department.
+3. A text box appears. Delete and enter a new department name.
 
    ![department_pages](../../images/departments/editdprt2.png)
+
+   > **Note:** As an example we will edit **_Test Niraj_** department.
 
 <a href="#top" id="back-to-top">Back to top</a>
 
