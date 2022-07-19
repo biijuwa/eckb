@@ -26,3 +26,5 @@ permalink: /
 ---
 
 **FREQUENTLY ASKED QUESTIONS**
+
+![dashboard_image](/images/index/dashboard.png)
