@@ -8,4 +8,8 @@ permalink: /
 
 ---
 
+### Navigating Knowledgebase
+
+![dashboard](/images/index/interface.png)
+
 ### FREQUENTLY ASKED QUESTIONS
