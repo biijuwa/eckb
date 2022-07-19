@@ -6,7 +6,7 @@ description:
 permalink:
 ---
 
-## Departments
+**Departments**
 
 ---
 
