@@ -84,7 +84,7 @@ Follow the steps to change the ticket type's status.
 2. Click on **Supports Types.**
 3. **Supports Types** page opens up. Click on the desired **_tile name_** from the list.
 
-   > **Important:** To view both **_inactive_** and **_active_** tiles, you have to turn **On** the **_Show All List_** option.
+   > **Important:** The list will not contain **_inactive_** titles so incase you want to change the status of an **_inactive_** title you have to turn **On** the **_Show All List_** option.
 
    ![supports_types_page](../../images/dsupports/stypes_page.png)
 
