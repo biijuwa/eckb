@@ -28,7 +28,7 @@ In this article we will go over the steps for creating, editing, and deleting a 
 
 ## Create a Hero Image
 
-{: .mb-lg-4 .pb-2 .m-4 }
+{: .mb-lg-4 .pb-2 }
 
 Follow the steps to create a hero image.
 
@@ -57,6 +57,8 @@ Follow the steps to create a hero image.
 
 ## Delete a Hero Image
 
+{: .mb-lg-4 .pb-2 }
+
 Follow the steps to Delete a hero image.
 
 1. From the **Dashboard**, select **Hero Images.**
@@ -72,6 +74,8 @@ Follow the steps to Delete a hero image.
 ---
 
 ## Edit a Hero Image
+
+{: .mb-lg-4 .pb-2 }
 
 > **Important:**<br>
 > You cannot replace a hero image, so the only option is to delete it. Though, you can change its required information.
