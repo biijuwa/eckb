@@ -59,7 +59,7 @@ Follow the steps to edit the name of a department.<br>
 
 2. **Departments** page opens up. Search and then click on the desired **_Department name._**
 
-3. A text box appears. Delete and enter a new department name.
+3. A text box appears. Delete and enter a new **_department name._**
 
    ![department_pages](../../images/departments/editdprt2.png)
 
