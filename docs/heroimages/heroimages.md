@@ -28,7 +28,7 @@ In this article we will go over the steps for creating, editing, and deleting a 
 
 ## Create a Hero Image
 
-{: .mb-lg-4 .pb-2 }
+{: .my-4 .pb-2 }
 
 Follow the steps to create a hero image.
 
@@ -57,7 +57,7 @@ Follow the steps to create a hero image.
 
 ## Delete a Hero Image
 
-{: .my-4 .mb-lg-4 .pb-2 }
+{: .my-4 .pb-2 }
 
 Follow the steps to Delete a hero image.
 
