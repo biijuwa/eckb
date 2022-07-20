@@ -62,13 +62,13 @@ Follow the steps to change the ticket's title.
 
    ![supports_types_page](../../images/dsupports/stypes_page.png)
 
-   > _Tip:_ If you want the list to contain both <b>_active_</b> and <b>_inactive_</b> ticket title click on **Show All List.**
+   > **Tip:** If you want the list to contain both <b>_active_</b> and <b>_inactive_</b> ticket title click on **Show All List.**
 
 4. Text field opens up. Enter a new **_title name_** and then press **Enter.**
 
    ![edit_title](../../images/dsupports/edit_title.png)
 
-   > **Note:** <br> As an example we are renaming the title name for <b>_Order Issue._</b>
+   > **Note:** As an example we are renaming the title name for <b>_Order Issue._</b>
 
 <a href="#top" id="back-to-top">Back to top</a>
 
@@ -84,7 +84,7 @@ Follow the steps to change the ticket type's status.
 2. Click on **Supports Types.**
 3. **Supports Types** page opens up. Click on the desired **_tile name_** from the list.
 
-   > _Important:_ You can only view the <b>_Inactive_</b> titles when you **Turn on** the _Show All List_ option so click on it to turn it on.
+   > **Important:** You can only view the <b>_Inactive_</b> titles when you **Turn on** the _Show All List_ option so click on it to turn it on.
 
    ![supports_types_page](../../images/dsupports/stypes_page.png)
 
