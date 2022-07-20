@@ -28,7 +28,7 @@ Intro
 
 ## Create a Ticket Type
 
-{: .mb-lg-4 .pb-2 }
+{: .my-4 .pb-2 }
 
 Follow these steps to create a ticket type.
 
@@ -52,7 +52,7 @@ Follow these steps to create a ticket type.
 
 ## Rename a ticket type
 
-{: .mb-lg-4 .pb-2 }
+{: .my-4 .pb-2 }
 
 Follow the steps to change the ticket's title.
 
@@ -75,6 +75,8 @@ Follow the steps to change the ticket's title.
 ---
 
 ## Change ticket type's status
+
+{: .my-4 .pb-2 }
 
 Follow the steps to change the ticket type's status.
 
