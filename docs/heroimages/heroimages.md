@@ -26,7 +26,7 @@ In this article we will go over the steps for creating, editing, and deleting a 
 </details>
 ---
 
-# Create a Hero Image
+## Create a Hero Image
 
 <br>
 
