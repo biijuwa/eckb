@@ -30,7 +30,7 @@ permalink:
 
 ---
 
-## Activate or Deactivate a promo code
+### Activate or Deactivate a promo code
 
 {: .my-4 .pb-2 }
 
@@ -43,3 +43,6 @@ permalink:
    > The list will not contain the promo codes that are deactivated In order to view the inactive codes, click on ![show_all_codes](../../images/buttons/1.png) to turn on the option.
 
 3. When found click on toggle button located under the **_Status_** column.
+   <a href="#top" id="back-to-top">Back to top</a>
+
+---
