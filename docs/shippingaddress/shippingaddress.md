@@ -28,6 +28,8 @@ permalink:
 
 2.  Search for the desired profile, when found click ![edit_button](../../images/buttons/edit.png) located under the **Action** column on the same row.
 
+    ![shipping_address_page](../../images/pcode/promocode_page.png)
+
 3.  **Edit Shipping Address Profile** dialog box opens up, edit the information in required fields.
 
     ![edit_dialog](../../images/shippingaddress/sad_edit_dialog.png)
