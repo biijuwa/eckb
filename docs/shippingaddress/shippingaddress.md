@@ -50,6 +50,4 @@ permalink:
 
 <a href="#top" id="back-to-top">Back to top</a>
 
-b
-
 ---
