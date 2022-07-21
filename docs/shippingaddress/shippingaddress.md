@@ -38,10 +38,13 @@ permalink:
 
 ---
 
-### Delete a shipping profile
+### Delete a shipping address profile
 
 1. From the **Dashboard,** select **Shipping Address Profiles.**
-2. Search for the desired profile, when found click ![delete_button](../../images/buttons/delete.png) located under the **Action** column on the same row. 3.**Confirmation** dialog box opens up, click on **Yes.**
+2. Search for the desired profile, when found click ![delete_button](../../images/buttons/delete.png) located under the **Action** column on the same row.
+3. **Confirmation** dialog box opens up, click on **Yes.**
+
+   ![delete_dialog](../../images/shippingaddress/sad_delete_dialog.png)
 
 <a href="#top" id="back-to-top">Back to top</a>
 
