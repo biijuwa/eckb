@@ -30,7 +30,7 @@ permalink:
 
 3.  **Edit Shipping Address Profile** dialog box opens up, edit the information in required fields.
 
-        ![edit_dialog](../../images/shippingaddress/sad_edit_dialog.png)
+    ![edit_dialog](../../images/shippingaddress/sad_edit_dialog.png)
 
 4.  When done, click on **Save Changes.**
 
