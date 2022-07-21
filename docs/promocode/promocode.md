@@ -6,4 +6,4 @@ description:
 permalink:
 ---
 
-![button](/images/buttons/1.png)
+![button](../../images/buttons/1.png)
