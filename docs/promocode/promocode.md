@@ -10,7 +10,7 @@ permalink:
 
 ---
 
-### Create a new promo
+### Create a new promo code
 
 {: .my-4 .pb-2 }
 
@@ -24,8 +24,22 @@ permalink:
    ![create_new_promo](../../images/pcode/new_promo_code_dialog.png)
 
 4. **[Optional]** Click on ![on_button](../../images/buttons/on.png) to change its status to **_Deactive._**
-5. After you are done, click on **Save.**
+5. After you are done, click on **Save** or else skip it.
 
-## <a href="#top" id="back-to-top">Back to top</a>
+<a href="#top" id="back-to-top">Back to top</a>
 
 ---
+
+## Activate or Deactivate a promo code
+
+{: .my-4 .pb-2 }
+
+1. From the **Dashboard,** select **Promo Codes.**
+2. **Promo Codes** page opens up, search for desired **_promo code_** from the given list.
+
+   ![promo_code_page](../../images/pcode/promocode_page.png)
+
+   > **Note:** <br>
+   > The list will not contain the promo codes that are deactivated In order to view the inactive codes, click on ![show_all_codes](../../images/buttons/1.png) to turn on the option.
+
+3. When found click on toggle button located under the **_Status_** column.
