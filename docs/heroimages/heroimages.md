@@ -6,7 +6,7 @@ description:
 permalink:
 ---
 
-![click here](https://biijuwa.github.io/eckb/docs/manageproducts/sections/createsection.html)
+[click here](https://biijuwa.github.io/eckb/docs/manageproducts/sections/createsection.html)
 
 ---
 
