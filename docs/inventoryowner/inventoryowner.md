@@ -6,7 +6,8 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Inventory Owner
+[Home](https://biijuwa.github.io/eckb/) / Inventory Owner
+{: .fs-2 }
 
 ##
 

@@ -6,7 +6,8 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Orders
+[Home](https://biijuwa.github.io/eckb/) / Orders
+{: .fs-2 }
 
 <details open markdown="block">
   <summary>

@@ -6,7 +6,8 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Settings
+[Home](https://biijuwa.github.io/eckb/) / Settings
+{: .fs-2 }
 
 ## Settings
 

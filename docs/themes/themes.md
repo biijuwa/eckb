@@ -8,7 +8,8 @@ permalink:
 
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Themes
+[Home](https://biijuwa.github.io/eckb/) / Themes
+{: .fs-2 }
 
 ## Themes
 

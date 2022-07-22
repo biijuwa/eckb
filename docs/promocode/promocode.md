@@ -8,7 +8,8 @@ permalink:
 
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Promo Code
+[Home](https://biijuwa.github.io/eckb/) / Promo Code
+{: .fs-2 }
 
 <b>Intro</b>
 

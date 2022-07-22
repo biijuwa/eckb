@@ -6,7 +6,8 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/CMS
+[Home](https://biijuwa.github.io/eckb/) / CMS
+{: .fs-2 }
 
 ## Update a CMS
 

@@ -6,7 +6,8 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/User Groups
+[Home](https://biijuwa.github.io/eckb/) / User Groups
+{: .fs-2 }
 
 ##
 

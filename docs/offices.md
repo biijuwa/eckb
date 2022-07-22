@@ -6,7 +6,8 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Offices
+[Home](https://biijuwa.github.io/eckb/) / Offices
+{: .fs-2 }
 
 INTRO
 

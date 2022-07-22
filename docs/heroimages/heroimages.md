@@ -6,7 +6,8 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Hero Images
+[Home](https://biijuwa.github.io/eckb/) / Hero Images
+{: .fs-2 }
 
 ---
 

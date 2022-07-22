@@ -8,7 +8,8 @@ permalink:
 
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/Smtp Settings
+[Home](https://biijuwa.github.io/eckb/) / Smtp Settings
+{: .fs-2 }
 
 ## SMTP Settings
 
