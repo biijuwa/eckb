@@ -6,7 +6,7 @@ description:
 permalink:
 ---
 
-## ![a](/index.md)/![b](/docs/heroimages/heroimages.md)
+![a](/index.md)/![b](/docs/heroimages/heroimages.md)
 
 ---
 
