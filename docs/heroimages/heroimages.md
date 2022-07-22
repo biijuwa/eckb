@@ -6,9 +6,7 @@ description:
 permalink:
 ---
 
-![a](/index.md)/![b](/docs/heroimages/heroimages.md)
-
-<p>The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/' | absolute_url }}">site's home page</a>.</p>
+<p>The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/'}}">site's home page</a>.</p>
 
 ---
 
