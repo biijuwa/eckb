@@ -40,7 +40,7 @@ permalink:
    ![promo_code_page](../../images/pcode/promocode_page.png)
 
    > **Note:** <br>
-   > The list will not contain the promo codes that are deactivated In order to view the inactive codes, click on ![show_all_codes](../../images/buttons/1.png) to turn on the option.
+   > The list will not contain the promo codes that are deactivated In order to view the inactive codes, click on ![show_all_codes](../../images/buttons/pcode.png) to turn on the option.
 
 3. When found click on toggle button located under the **_Status_** column.
 
