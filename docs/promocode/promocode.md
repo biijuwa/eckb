@@ -10,8 +10,6 @@ permalink:
 
 [Home](https://biijuwa.github.io/eckb/)/Promo Code
 
----
-
 <b>Intro</b>
 
 ---

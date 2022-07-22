@@ -6,6 +6,8 @@ description:
 permalink:
 ---
 
+[Home](https://biijuwa.github.io/eckb/)/Inventory Owner
+
 ##
 
 <details open markdown="block">

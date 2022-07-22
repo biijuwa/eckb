@@ -7,6 +7,8 @@ has_toc: true
 permalink:
 ---
 
+[Home](https://biijuwa.github.io/eckb/)/Manage Sizes
+
 <b> Introduction </b>
 
 ---

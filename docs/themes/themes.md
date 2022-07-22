@@ -8,6 +8,8 @@ permalink:
 
 ---
 
+[Home](https://biijuwa.github.io/eckb/)/Themes
+
 ## Themes
 
 ---
