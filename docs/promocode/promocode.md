@@ -4,7 +4,6 @@ title: Promo Code
 nav_order: 25
 description:
 permalink:
-nav_exclude: true
 ---
 
 <b>Intro</b>
