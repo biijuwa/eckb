@@ -6,7 +6,7 @@ description:
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/)/[Hero Images](https://biijuwa.github.io/eckb/docs/heroimages/heroimages.html)
+[Home](https://biijuwa.github.io/eckb/)/Hero Images
 
 ---
 
