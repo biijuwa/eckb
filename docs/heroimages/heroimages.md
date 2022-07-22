@@ -6,6 +6,19 @@ description:
 permalink:
 ---
 
+<nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list">
+              {% if page.grand_parent %}
+                <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
+                <li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a></li>
+              {% else %}
+                <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.parent }}</a></li>
+              {% endif %}
+              <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
+            </ol>
+          </nav>
+---
+
 Getting clicked with a product on the very first sight is heavenly. Don’t you agree?
 It is the mesmerizing product image that must have triggered the connection. Don’t you think?
 {: .fh-default .text-left .fs-4 }
