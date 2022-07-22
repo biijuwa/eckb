@@ -6,7 +6,7 @@ description:
 permalink:
 ---
 
-<p>The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/' | absolute_url | '/radfjh'  }}">site's home page</a>.</p>
+![click here](https://biijuwa.github.io/eckb/docs/manageproducts/sections/createsection.html)
 
 ---
 
