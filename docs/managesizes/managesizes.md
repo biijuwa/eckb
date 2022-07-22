@@ -8,7 +8,7 @@ permalink:
 ---
 
 [Home](https://biijuwa.github.io/eckb/) / Manage Sizes
-{: .fs-1 }
+{: .fs-2 }
 
 <b> Introduction </b>
 
