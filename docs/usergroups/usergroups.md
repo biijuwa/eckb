@@ -4,9 +4,6 @@ title: User Groups
 nav_order: 18
 description:
 permalink:
-
-<b>Intro</b>
-
 ---
 
 ### Steps to create a USer Group
