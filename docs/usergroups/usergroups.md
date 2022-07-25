@@ -4,8 +4,6 @@ title: User Groups
 nav_order: 18
 description:
 permalink:
----[Home](https://biijuwa.github.io/eckb/) / User Groups
-{: .fs-2 }
 
 <b>Intro</b>
 
