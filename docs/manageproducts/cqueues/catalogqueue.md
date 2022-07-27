@@ -7,6 +7,11 @@ nav_order: 1
 nav_exclude: true
 ---
 
+[Home](https://biijuwa.github.io/eckb/) / [Catalog Queues](https://biijuwa.github.io/eckb/docs/manageproducts/cqueues/cqueues.html) / Continue Catalog Creation
+{: .fs-2 }
+
+---
+
 ###
 
 1. From the **Dashboard**, select **Manage Products.**

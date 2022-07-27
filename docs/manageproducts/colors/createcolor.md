@@ -7,6 +7,11 @@ nav_order: 1
 nav_exclude: true
 ---
 
+[Home](https://biijuwa.github.io/eckb/) / [Colors](https://biijuwa.github.io/eckb/docs/manageproducts/colors/colors.html) / Create a Color
+{: .fs-2 }
+
+---
+
 ### Steps to create a color
 
 1. From the **Dashboard**, select **Manage Products.**

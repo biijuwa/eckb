@@ -7,6 +7,11 @@ nav_order: 1
 nav_exclude: true
 ---
 
+[Home](https://biijuwa.github.io/eckb/) / [Sizes](https://biijuwa.github.io/eckb/docs/manageproducts/size/sizes.html) / Create Size
+{: .fs-2 }
+
+---
+
 ### Steps to create a size
 
 1. From the **Dashboard**, select **Manage Products.**

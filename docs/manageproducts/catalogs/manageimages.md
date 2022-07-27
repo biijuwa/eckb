@@ -7,6 +7,11 @@ nav_order: 1
 nav_exclude: true
 ---
 
+[Home](https://biijuwa.github.io/eckb/) / [Catalogs](https://biijuwa.github.io/eckb/docs/manageproducts/catalogs/catalogs.html) / Manage Images
+{: .fs-2 }
+
+---
+
 ### Steps to create a product
 
 1. From the **Dashboard**, select **Manage Products.**

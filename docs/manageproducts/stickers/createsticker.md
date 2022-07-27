@@ -7,6 +7,11 @@ nav_order: 1
 nav_exclude: true
 ---
 
+[Home](https://biijuwa.github.io/eckb/) / [Stickers](https://biijuwa.github.io/eckb/docs/manageproducts/stickers/stickers.html) / Create a Sticker
+{: .fs-2 }
+
+---
+
 #### Steps to create a sticker
 
 1. From the **Dashboard**, select **Sticker.**
