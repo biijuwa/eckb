@@ -6,4 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-[Home]
+[Home](https://biijuwa.github.io/eckb/) / Credits
+{: .fs-2 }
+
+---

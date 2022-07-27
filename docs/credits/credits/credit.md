@@ -7,6 +7,11 @@ nav_order: 1
 nav_exclude: true
 ---
 
+[Home](https://biijuwa.github.io/eckb/) /[Credits](https://biijuwa.github.io/eckb/docs/credits/creditsd.html) [Credits](https://biijuwa.github.io/eckb/docs/credits/credits.html)/ Create Credit
+{: .fs-2 }
+
+---
+
 ### Steps to create a credit
 
 1. From the **Dashboard**, select **Credits.**
