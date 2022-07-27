@@ -7,7 +7,7 @@ nav_order: 1
 nav_exclude: true
 ---
 
-[Home](https://biijuwa.github.io/eckb/) /[Credits](https://biijuwa.github.io/eckb/docs/credits/creditsd.html) [Credits](https://biijuwa.github.io/eckb/docs/credits/credits.html)/ Create Credit
+[Home](https://biijuwa.github.io/eckb/) /[Credits](https://biijuwa.github.io/eckb/docs/credits/credits.html) / Create Credit
 {: .fs-2 }
 
 ---
