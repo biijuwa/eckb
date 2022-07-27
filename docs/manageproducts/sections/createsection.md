@@ -7,6 +7,9 @@ nav_order: 1
 nav_exclude: true
 ---
 
+[Home](https://biijuwa.github.io/eckb/) / [Sections](https://biijuwa.github.io/eckb/docs/manageproducts/sections/createsection.html) / Create Section
+{: .fs-2 }
+
 ### Steps to create a section
 
 1. From the **Dashboard**, select **Manage Products.**
