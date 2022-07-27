@@ -7,3 +7,4 @@ has_children: true
 ---
 
 [Home](https://biijuwa.github.io/eckb/) / Stickers
+{: .fs-2 }
