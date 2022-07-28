@@ -16,7 +16,7 @@ In this article, you can browse through different categories and learn how to ed
 
 ## Categories
 
-- [Members]({{ site.baseurl }}{% link docs/members/member.md %})
+- [Members](https://biijuwa.github.io/eckb/docs/members/member.html)
 - [Member Swag Setting]({{ site.baseurl }}{% link docs/members/memberswagsetting.md %})
 - [Member Groups]({{ site.baseurl }}{% link docs/members/membergroups.md %})
 - [Bulk Assign Group]({{ site.baseurl }}{% link docs/members/bulkassigngroups.md %})
