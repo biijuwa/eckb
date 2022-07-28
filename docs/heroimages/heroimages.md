@@ -19,8 +19,6 @@ Capturing the visitor’s attention and maintaining engagement is what a hero im
 {: .fh-default .text-left .fs-4 }
 In this article we will go over the steps for creating, editing, and deleting a hero image.
 
----
-
 <details open markdown="block">
   <summary>
     <b>In this article.</b>
