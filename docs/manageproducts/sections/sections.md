@@ -7,7 +7,7 @@ parent: Manage Products
 has_children: true
 ---
 
-[Home](https://biijuwa.github.io/eckb/) / Sections
+[Sections](https://biijuwa.github.io/eckb/docs/manageproducts/manageproducts.html) / Create Sections
 {: .fs-2 }
 
 <b> Intro </b>
