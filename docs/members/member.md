@@ -5,7 +5,7 @@ parent: Members
 nav_order: 1
 ---
 
-## (INTRO)
+[Members](https://biijuwa.github.io/eckb/docs/members/members.html) / Members
 
 ---
 
