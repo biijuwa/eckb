@@ -8,11 +8,6 @@ has_toc: false
 permalink:
 ---
 
-[Home](https://biijuwa.github.io/eckb/) / Members
-{: .fs-2 }
-
----
-
 A member is crucial part of an organisation be it large or small. Employee is a member within an organisation. The smooth functioning of an organisation depends on its members.
 
 In this article, you can browse through different categories and learn how to edit a member, create group members, assign group members, bulk upload gifts, and many more member-related activities.
@@ -21,7 +16,7 @@ In this article, you can browse through different categories and learn how to ed
 
 ## Categories
 
-- [Members]({{ site.baseurl }}{% link docs/members/members.md %}#aux-links)
+- [Members]({{ site.baseurl }}{% link docs/members/member.md %}#aux-links)
 - [Member Swag Setting]({{ site.baseurl }}{% link docs/members/memberswagsetting.md %}#aux-links)
 - [Member Groups]({{ site.baseurl }}{% link docs/members/membergroups.md %}#aux-links)
 - [Bulk Assign Group]({{ site.baseurl }}{% link docs/members/bulkassigngroups.md %}#aux-links)
