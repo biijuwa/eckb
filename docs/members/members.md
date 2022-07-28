@@ -16,12 +16,12 @@ In this article, you can browse through different categories and learn how to ed
 
 ## Categories
 
-- [Members]({{ site.baseurl }}{% link docs/members/member.md %}#aux-links)
-- [Member Swag Setting]({{ site.baseurl }}{% link docs/members/memberswagsetting.md %}#aux-links)
-- [Member Groups]({{ site.baseurl }}{% link docs/members/membergroups.md %}#aux-links)
-- [Bulk Assign Group]({{ site.baseurl }}{% link docs/members/bulkassigngroups.md %}#aux-links)
-- [Bulk Assign Group Rules]({{ site.baseurl }}{% link docs/members/bulkassigngrouprules.md %}#aux-links)
-- [Bulk Member Upload]({{ site.baseurl }}{% link docs/members/bulkmemberupload.md %}#aux-links)
-- [Bulk Credit Upload]({{ site.baseurl }}{% link docs/members/bulkcreditupload.md %}#aux-links)
-- [Bulk Gift Upload]({{ site.baseurl }}{% link docs/members/bulkgiftupload.md %}#aux-links)
-- [Bulk Upload Logs]({{ site.baseurl }}{% link docs/members/bulkuploadlogs.md %}#aux-links)
+- [Members]({{ site.baseurl }}{% link docs/members/member.md %})
+- [Member Swag Setting]({{ site.baseurl }}{% link docs/members/memberswagsetting.md %})
+- [Member Groups]({{ site.baseurl }}{% link docs/members/membergroups.md %})
+- [Bulk Assign Group]({{ site.baseurl }}{% link docs/members/bulkassigngroups.md %})
+- [Bulk Assign Group Rules]({{ site.baseurl }}{% link docs/members/bulkassigngrouprules.md %})
+- [Bulk Member Upload]({{ site.baseurl }}{% link docs/members/bulkmemberupload.md %})
+- [Bulk Credit Upload]({{ site.baseurl }}{% link docs/members/bulkcreditupload.md %})
+- [Bulk Gift Upload]({{ site.baseurl }}{% link docs/members/bulkgiftupload.md %})
+- [Bulk Upload Logs]({{ site.baseurl }}{% link docs/members/bulkuploadlogs.md %})
