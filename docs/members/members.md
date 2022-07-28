@@ -15,7 +15,7 @@ permalink:
 
 A member is crucial part of an organisation be it large or small. Employee is a member within an organisation. The smooth functioning of an organisation depends on its members.
 
-In this article, you can browse through different categories to learn to edit a member, create group members, assign group members, bulk upload gifts, and many more member-related activities.
+In this article, you can browse through different categories and learn how to edit a member, create group members, assign group members, bulk upload gifts, and many more member-related activities.
 
 ---
 
