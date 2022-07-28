@@ -80,7 +80,7 @@ Follow the steps to Delete a hero image.
 {: .mb-lg-4 .pb-2 }
 
 > **Important:**<br>
-> You cannot replace a hero image, so the only option is to delete it. Though, you can change its required information.
+> You cannot replace a hero image, so the only option is to delete it. Though, you can change its required information. { .fs-3 }
 
 Follow the steps to edit a hero image.
 
